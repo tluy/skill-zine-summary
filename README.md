@@ -1,0 +1,13 @@
+# Skill 样图与地址汇总（按 Skill 名字排序）
+| 样图 1 | 样图 2 | 样图 3 | Skill / 地址 |
+|--------|--------|--------|--------------|
+| ![螂狗日记 1](pic/s09_1.jpg) | ![螂狗日记 2](pic/s09_2.jpg) | ![螂狗日记 3](pic/s09_3.jpg) | [daily-photo-playground](https://github.com/search?q=daily-photo-playground)<br>daily-photo-playground |
+| ![乞力马扎罗的雪 1](pic/s10_1.jpg) | ![乞力马扎罗的雪 2](pic/s10_2.jpg) | ![乞力马扎罗的雪 3](pic/s10_3.jpg) | [gathered-scenes-zine-skill](https://github.com/search?q=gathered-scenes-zine-skill)<br>gathered-scenes-zine-skill |
+| ![AYE 1](pic/s07_1.jpg) | ![AYE 2](pic/s07_2.jpg) | ![AYE 3](pic/s07_3.jpg) | [gc-minimal-zine-poster](https://github.com/search?q=gc-minimal-zine-poster)<br>gc-minimal-zine-poster |
+| ![土建三局包工头 1](pic/s12_1.jpg) | ![土建三局包工头 2](pic/s12_2.jpg) | ![土建三局包工头 3](pic/s12_3.jpg) | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)<br>github.com/Evianis/travel-photo-abstraction |
+| ![丁真の赛博牧场 1](pic/s02_1.jpg) | ![丁真の赛博牧场 2](pic/s02_2.jpg) | ![丁真の赛博牧场 3](pic/s02_3.jpg) | [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial)<br>github.com/wnby/photo-relic-editorial |
+| ![章台竹 1](pic/s11_1.jpg) | ![章台竹 2](pic/s11_2.jpg) | ![章台竹 3](pic/s11_3.jpg) | [PHOTO REVIVAL](https://github.com/search?q=PHOTO+REVIVAL)<br>PHOTO REVIVAL |
+| ![米兰的弹舌 1](pic/s13_1.jpg) | ![米兰的弹舌 2](pic/s13_2.jpg) | ![米兰的弹舌 3](pic/s13_3.jpg) | [pixel-style-poster-skill](https://github.com/search?q=pixel-style-poster-skill)<br>pixel-style-poster-skill |
+| ![知梵夜猫 1](pic/s08_1.jpg) | ![知梵夜猫 2](pic/s08_2.jpg) | ![知梵夜猫 3](pic/s08_3.jpg) | [scene-distillation-zine-v1-3](https://github.com/search?q=scene-distillation-zine-v1-3)<br>scene-distillation-zine-v1-3 |
+| ![LightJoyJet 1](pic/s03_1.jpg) | ![LightJoyJet 2](pic/s03_2.jpg) | ![LightJoyJet 3](pic/s03_3.jpg) | [scenes-gathered-zine-v1-3](https://github.com/search?q=scenes-gathered-zine-v1-3)<br>scenes-gathered-zine-v1-3 |
+| ![yangholdon 1](pic/s01_1.jpg) | ![yangholdon 2](pic/s01_2.jpg) | ![yangholdon 3](pic/s01_3.jpg) | [yangcodingmaster/photo-distill](https://github.com/yangcodingmaster/photo-distill)<br>yangcodingmaster/photo-distill |
