@@ -5,7 +5,7 @@
 | ![dyy 1](pic/s02_1.jpg) | ![dyy 2](pic/s02_2.jpg) | ![dyy 3](pic/s02_3.jpg) | [dyy_photo_deconstruct](https://github.com/121dyy/dyy_photo_deconstruct) |
 | ![土建三局包工头 1](pic/s03_1.jpg) | ![土建三局包工头 2](pic/s03_2.jpg) | ![土建三局包工头 3](pic/s03_3.jpg) | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)|
 | ![乞力马扎罗的雪 1](pic/s04_1.jpg) | ![乞力马扎罗的雪 2](pic/s04_2.jpg) | ![乞力马扎罗的雪 3](pic/s04_3.jpg) | [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) |
-| ![AYE 1](pic/s05_1.jpg) | ![AYE 2](pic/s05_2.jpg) | ![AYE 3](pic/s05_3.jpg) | [gc-minimal-zine-poster](https://github.com/search?q=gc-minimal-zine-poster)<br>[https://github.com/search?q=gc-minimal-zine-poster](https://github.com/search?q=gc-minimal-zine-poster) |
+| ![AYE 1](pic/s05_1.jpg) | ![AYE 2](pic/s05_2.jpg) | ![AYE 3](pic/s05_3.jpg) | [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)|
 | ![章台竹 1](pic/s06_1.jpg) | ![章台竹 2](pic/s06_2.jpg) | ![章台竹 3](pic/s06_3.jpg) | [PHOTO REVIVAL](https://github.com/search?q=PHOTO+REVIVAL)<br>[https://github.com/search?q=PHOTO+REVIVAL](https://github.com/search?q=PHOTO+REVIVAL) |
 | ![米兰的弹舌 1](pic/s07_1.jpg) | ![米兰的弹舌 2](pic/s07_2.jpg) | ![米兰的弹舌 3](pic/s07_3.jpg) | [pixel-style-poster-skill](https://github.com/search?q=pixel-style-poster-skill)<br>[https://github.com/search?q=pixel-style-poster-skill](https://github.com/search?q=pixel-style-poster-skill) |
 | ![知梵夜猫 1](pic/s08_1.jpg) | ![知梵夜猫 2](pic/s08_2.jpg) | ![知梵夜猫 3](pic/s08_3.jpg) | [scene-distillation-zine-v1-3](https://github.com/search?q=scene-distillation-zine-v1-3)<br>[https://github.com/search?q=scene-distillation-zine-v1-3](https://github.com/search?q=scene-distillation-zine-v1-3) |
