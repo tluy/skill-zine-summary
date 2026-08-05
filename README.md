@@ -9,6 +9,6 @@
 | ![章台竹 1](pic/s06_1.jpg) | ![章台竹 2](pic/s06_2.jpg) | ![章台竹 3](pic/s06_3.jpg) | [PHOTO REVIVAL](https://github.com/dacnay816y62-hub/photo-revival) |
 | ![米兰的弹舌 1](pic/s07_1.jpg) | ![米兰的弹舌 2](pic/s07_2.jpg) | ![米兰的弹舌 3](pic/s07_3.jpg) | [pixel-style-poster-skill](https://github.com/v92388375-gif/pixel-style-poster-skill)|
 | ![知梵夜猫 1](pic/s08_1.jpg) | ![知梵夜猫 2](pic/s08_2.jpg) | ![知梵夜猫 3](pic/s08_3.jpg) | [scene-distillation-zine-v1-3](https://github.com/Zeejay0/scene-distillation-zine-v1-3) |
-| ![LightJoyJet 1](pic/s09_1.jpg) | ![LightJoyJet 2](pic/s09_2.jpg) | ![LightJoyJet 3](pic/s09_3.jpg) | [scenes-gathered-zine-v1-3](https://github.com/search?q=scenes-gathered-zine-v1-3) |
+| ![LightJoyJet 1](pic/s09_1.jpg) | ![LightJoyJet 2](pic/s09_2.jpg) | ![LightJoyJet 3](pic/s09_3.jpg) | [scenes-gathered-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill) |
 | ![丁真の赛博牧场 1](pic/s10_1.jpg) | ![丁真の赛博牧场 2](pic/s10_2.jpg) | ![丁真の赛博牧场 3](pic/s10_3.jpg) | [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial)|
 | ![yangholdon 1](pic/s11_1.jpg) | ![yangholdon 2](pic/s11_2.jpg) | ![yangholdon 3](pic/s11_3.jpg) | [yangcodingmaster/photo-distill](https://github.com/yangcodingmaster/photo-distill)|
