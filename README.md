@@ -1,7 +1,7 @@
 # Skill 样图与地址汇总（按 Skill 名字排序）
 | 样图 1 | 样图 2 | 样图 3 | Skill / 地址 |
 |--------|--------|--------|--------------|
-| ![螂狗日记 1](pic/s01_1.jpg) | ![螂狗日记 2](pic/s01_2.jpg) | ![螂狗日记 3](pic/s01_3.jpg) | [daily-photo-playground](https://github.com/search?q=daily-photo-playground)<br>[https://github.com/search?q=daily-photo-playground](https://github.com/search?q=daily-photo-playground) |
+| ![螂狗日记 1](pic/s01_1.jpg) | ![螂狗日记 2](pic/s01_2.jpg) | ![螂狗日记 3](pic/s01_3.jpg) | [daily-photo-playground]([https://github.com/search?q=daily-photo-playground] |
 | ![dyy 1](pic/s02_1.jpg) | ![dyy 2](pic/s02_2.jpg) | ![dyy 3](pic/s02_3.jpg) | [dyy_photo_deconstruct](https://github.com/121dyy/dyy_photo_deconstruct)<br>[https://github.com/121dyy/dyy_photo_deconstruct](https://github.com/121dyy/dyy_photo_deconstruct) |
 | ![土建三局包工头 1](pic/s03_1.jpg) | ![土建三局包工头 2](pic/s03_2.jpg) | ![土建三局包工头 3](pic/s03_3.jpg) | [Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)<br>[https://github.com/Evianis/travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) |
 | ![乞力马扎罗的雪 1](pic/s04_1.jpg) | ![乞力马扎罗的雪 2](pic/s04_2.jpg) | ![乞力马扎罗的雪 3](pic/s04_3.jpg) | [gathered-scenes-zine-skill](https://github.com/search?q=gathered-scenes-zine-skill)<br>[https://github.com/search?q=gathered-scenes-zine-skill](https://github.com/search?q=gathered-scenes-zine-skill) |
