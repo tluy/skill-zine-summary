@@ -1,4 +1,4 @@
-# Skill 样图与地址汇总（按 Skill 名字排序）
+# Skill 样图与地址汇总
 | 样图 1 | 样图 2 | 样图 3 | Skill / 地址 |
 |--------|--------|--------|--------------|
 | ![螂狗日记 1](pic/s01_1.jpg) | ![螂狗日记 2](pic/s01_2.jpg) | ![螂狗日记 3](pic/s01_3.jpg) | [daily-photo-playground](https://github.com/luji12/daily-photo-playground) |
