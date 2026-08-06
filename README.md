@@ -13,3 +13,4 @@
 | ![丁真の赛博牧场 1](pic/s10_1.jpg) | ![丁真の赛博牧场 2](pic/s10_2.jpg) | ![丁真の赛博牧场 3](pic/s10_3.jpg) | [wnby/photo-relic-editorial](https://github.com/wnby/photo-relic-editorial)|
 | ![yangholdon 1](pic/s11_1.jpg) | ![yangholdon 2](pic/s11_2.jpg) | ![yangholdon 3](pic/s11_3.jpg) | [yangcodingmaster/photo-distill](https://github.com/yangcodingmaster/photo-distill)|
 | ![诗意线条海报 1](pic/s12_1.jpg) | ![诗意线条海报 2](pic/s12_2.jpg) | ![诗意线条海报 3](pic/s12_3.jpg) | [poetic-line-zine-poster](https://github.com/zhu930824/poetic-line-zine-poster)|
+| ![凌云志](pic/s13_1.jpg) | ![凌云志2](pic/s13_2.jpg) | ![凌云志3](pic/s13_3.jpg) | [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)|
