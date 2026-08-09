@@ -15,3 +15,5 @@
 | ![诗意线条海报 1](pic/s12_1.jpg) | ![诗意线条海报 2](pic/s12_2.jpg) | ![诗意线条海报 3](pic/s12_3.jpg) | [poetic-line-zine-poster](https://github.com/zhu930824/poetic-line-zine-poster)|
 | ![凌云志](pic/s13_1.jpg) | ![凌云志2](pic/s13_2.jpg) | ![凌云志3](pic/s13_3.jpg) | [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)|
 | ![王二_Wanger1](pic/s14_1.jpg) | ![王二_Wanger2](pic/s14_2.jpg) | ![王二_Wanger3](pic/s14_3.jpg) | [photo-to-zine-postcard](https://github.com/Whiplashzeb/photo-to-zine-postcard)|
+| ![Twe_51](pic/s15_1.jpg) | ![Twe_52](pic/s15_2.jpg) | ![Twe_53](pic/s15_3.jpg) | [8-bit Pixel Fusion](https://github.com/TwentyfiveBTea/8bit-pixel-art)|
+| ![Twe_51](pic/s16_1.jpg) | ![Twe_52](pic/s16_2.jpg) | ![Twe_53](pic/s16_3.jpg) | [Ink Wash Poster](https://github.com/TwentyfiveBTea/ink-wash-poster)|
