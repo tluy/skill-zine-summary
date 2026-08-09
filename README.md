@@ -17,3 +17,4 @@
 | ![王二_Wanger1](pic/s14_1.jpg) | ![王二_Wanger2](pic/s14_2.jpg) | ![王二_Wanger3](pic/s14_3.jpg) | [photo-to-zine-postcard](https://github.com/Whiplashzeb/photo-to-zine-postcard)|
 | ![Twe_51](pic/s15_1.jpg) | ![Twe_52](pic/s15_2.jpg) | ![Twe_53](pic/s15_3.jpg) | [8-bit Pixel Fusion](https://github.com/TwentyfiveBTea/8bit-pixel-art)|
 | ![Twe_51](pic/s16_1.jpg) | ![Twe_52](pic/s16_2.jpg) | ![Twe_53](pic/s16_3.jpg) | [Ink Wash Poster](https://github.com/TwentyfiveBTea/ink-wash-poster)|
+| ![Twe_51](pic/s17_1.jpg) | ![Twe_52](pic/s17_2.jpg) | ![Twe_53](pic/s17_3.jpg) | [Travel Photo Soft Abstraction](https://github.com/wnby/travel-photo-soft-abstraction)|
