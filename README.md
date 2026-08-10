@@ -33,8 +33,10 @@
 | ![蜗的天1](pic/s30_1.jpg) | ![蜗的天2](pic/s30_2.jpg) | ![蜗的天3](pic/s30_3.jpg) | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 蜗的天 |
 | ![梵想美学1](pic/s31_1.jpg) | ![梵想美学2](pic/s31_2.jpg) | ![梵想美学3](pic/s31_3.jpg) | [fantasy-life-force-portrait-photography](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 梵想美学 |
 | ![梵想美学1](pic/s32_1.jpg) | ![梵想美学2](pic/s32_2.jpg) | ![梵想美学3](pic/s32_3.jpg) | [culture-fragment-poster-engine](https://github.com/dacnay816y62-hub/culture-fragment-poster-engine)| 梵想美学 |
-| ![梵想美学1](pic/s33_1.jpg) | ![梵想美学2](pic/s33_2.jpg) | ![梵想美学3](pic/33_3.jpg) | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 梵想美学 |
+| ![梵想美学1](pic/s33_1.jpg) | ![梵想美学2](pic/s33_2.jpg) | ![梵想美学3](pic/s33_3.jpg) | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 梵想美学 |
 | ![梵想美学1](pic/s34_1.jpg) | ![梵想美学2](pic/s34_2.jpg) | ![梵想美学3](pic/s34_3.jpg) | [cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)| 梵想美学 |
+| ![梵想美学1](pic/s35_1.jpg) | ![梵想美学2](pic/s35_2.jpg) | ![梵想美学3](pic/s35_3.jpg) | [fantasy-movie-poster-skill](https://github.com/dacnay816y62-hub/fantasy-movie-poster-skill)| 梵想美学 |
+| ![梵想美学1](pic/s36_1.jpg) | ![梵想美学2](pic/s36_2.jpg) | ![梵想美学3](pic/s36_3.jpg) | [street-photo-illustration](https://github.com/dacnay816y62-hub/street-photo-illustration)| 梵想美学 |
 
 
 
