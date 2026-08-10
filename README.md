@@ -37,6 +37,7 @@
 | ![梵想美学1](pic/s34_1.jpg) | ![梵想美学2](pic/s34_2.jpg) | ![梵想美学3](pic/s34_3.jpg) | [cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)| 梵想美学 |
 | ![梵想美学1](pic/s35_1.jpg) | ![梵想美学2](pic/s35_2.jpg) | ![梵想美学3](pic/s35_3.jpg) | [fantasy-movie-poster-skill](https://github.com/dacnay816y62-hub/fantasy-movie-poster-skill)| 梵想美学 |
 | ![梵想美学1](pic/s36_1.jpg) | ![梵想美学2](pic/s36_2.jpg) | ![梵想美学3](pic/s36_3.jpg) | [street-photo-illustration](https://github.com/dacnay816y62-hub/street-photo-illustration)| 梵想美学 |
+| ![长曝研究院×柳生1](pic/s37_1.jpg) | ![长曝研究院×柳生2](pic/s37_2.jpg) | ![长曝研究院×柳生3](pic/s37_3.jpg) | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)| 长曝研究院×柳生 |
 
 
 
