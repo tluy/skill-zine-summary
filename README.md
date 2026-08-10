@@ -23,3 +23,27 @@
 | ![海星Hisea1](pic/s20_1.jpg) | ![海星Hisea2](pic/s20_2.jpg) | ![海星Hisea3](pic/s20_3.jpg) | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)| 海星Hisea |
 | ![Aomo1](pic/s21_1.jpg) | ![Aomo2](pic/s21_2.jpg) | ![Aomo3](pic/s21_3.jpg) | [dreamy-motion-editorial](https://github.com/lzs0594/dreamy-motion-editorial)| Aomo |
 | ![Cinderella1](pic/s22_1.jpg) | ![Cinderella2](pic/s22_2.jpg) | ![Cinderella3](pic/s22_3.jpg) | [photo-ink-echo](https://github.com/zhouaria28-cloud/photo-ink-echo)| Cinderella |
+
+# Prompt 样图与提示词汇总
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="pic/p01_1.jpg" alt="糖油炸弹1" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+    <td align="center">
+      <img src="pic/p01_2.jpg" alt="糖油炸弹1" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+    <td align="center">
+      <img src="pic/p01_3.jpg" alt="糖油炸弹1" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+提示词:竖向二分构图哑光米白画册明信片，上下比例约 50:50。 画面上半部分：完整保留原图写实实拍风景，统一为偏亮的柯达（Kodak）高调胶片色调——整体明亮通透、带空气感的胶片质感，细腻柔光颗粒；经典柯达暖色偏移但提亮处理：阴影适度抬起、不死黑，高光呈柔润的暖白与浅金黄，边缘轻微光晕（halation）与暖化；色彩为低饱和的明亮暖调，清淡柔和、干净轻盈，不改动景物布局、轮廓与原生低饱和配色基调，仅在其上叠加柯达胶片的暖橘与米白亮层次，复刻并强化原图色彩调性。 画面下半部分：独立米色留白区域，水墨扁平解构插画——提取原图全部景物作几何极简简化，分层柔和色块，毛笔淡墨晕染笔触，无锐利硬线条，复刻原图全部色彩调性并保持与上半部一致的明亮暖调；删除全部细碎纹理、杂物、光影。 画面最底部：纤细优雅衬线英文标题。 整体：米白哑光纸张底色，大面积留白，简约东方建筑风景研究版式，干净高级，无多余装饰；全图统一偏亮、通透、轻盈的胶片气质。
+整体：米白哑光纸张底色，大面积留白，大面积留白，简约东方建筑风景研究版式，干净高级，无多余装饰。
+    </td>
+  </tr>
+</table>
