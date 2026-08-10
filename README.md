@@ -27,7 +27,7 @@
 | ![咕咕咕咕咕嵩鼠1](pic/s24_1.jpg) | ![咕咕咕咕咕嵩鼠2](pic/s24_2.jpg) | ![咕咕咕咕咕嵩鼠3](pic/s24_3.jpg) | [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster)| 咕咕咕咕咕嵩鼠 |
 | ![LensWalker📷1](pic/s25_1.jpg) | ![LensWalker📷2](pic/s25_2.jpg) | ![LensWalker📷3](pic/s25_3.jpg) | [flash4start_light](https://github.com/Buantum/flash4start_light)| LensWalker📷 |
 | ![Lab 3051](pic/s26_1.jpg) | ![Lab 3052](pic/s26_2.jpg) | ![Lab 3053](pic/s26_3.jpg) | [antibes-holiday](https://github.com/haorantang97/antibes-holiday)| Lab 305 |
-
+| ![螂狗日记1](pic/s27_1.jpg) | ![螂狗日记2](pic/s27_2.jpg) | ![螂狗日记3](pic/s27_3.jpg) | [handdrawn-photo-poster](https://github.com/luji12/handdrawn-photo-poster)| 螂狗日记 |
 
 
 
