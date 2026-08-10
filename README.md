@@ -19,3 +19,4 @@
 | ![Twe_51](pic/s16_1.jpg) | ![Twe_52](pic/s16_2.jpg) | ![Twe_53](pic/s16_3.jpg) | [Ink Wash Poster](https://github.com/TwentyfiveBTea/ink-wash-poster)|
 | ![像素拌饭1](pic/s17_1.jpg) | ![像素拌饭2](pic/s17_2.jpg) | ![像素拌饭3](pic/s17_3.jpg) | [travel-photo-soft-abstraction](https://github.com/wnby/travel-photo-soft-abstraction)|
 | ![像素拌饭1](pic/s18_1.jpg) | ![像素拌饭2](pic/s18_2.jpg) | ![像素拌饭3](pic/s18_3.jpg) | [paper-spirit-zine](https://github.com/wnby/paper-spirit-zine)|
+| ![理智画1](pic/s19_1.jpg) | ![理智画2](pic/s19_2.jpg) | ![理智画3](pic/s19_3.jpg) | [ai-editorial-print-studio](https://github.com/liuzihe849-png/ai-editorial-print-studio)|
