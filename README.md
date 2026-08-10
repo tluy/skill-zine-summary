@@ -52,15 +52,15 @@
  <tr>
     <td align="center">
       <img src="pic/p02_1.jpg" alt="橙不甜1" style="max-width:90%;">
-      <br>糖油炸弹
+      <br>橙不甜
     </td>
     <td align="center">
       <img src="pic/p02_2.jpg" alt="橙不甜2" style="max-width:90%;">
-      <br>糖油炸弹
+      <br>橙不甜
     </td>
     <td align="center">
       <img src="pic/p02_3.jpg" alt="橙不甜3" style="max-width:90%;">
-      <br>糖油炸弹
+      <br>橙不甜
     </td>
   </tr>
   <tr>
