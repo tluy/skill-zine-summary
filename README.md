@@ -29,6 +29,8 @@
 | ![Lab 3051](pic/s26_1.jpg) | ![Lab 3052](pic/s26_2.jpg) | ![Lab 3053](pic/s26_3.jpg) | [antibes-holiday](https://github.com/haorantang97/antibes-holiday)| Lab 305 |
 | ![螂狗日记1](pic/s27_1.jpg) | ![螂狗日记2](pic/s27_2.jpg) | ![螂狗日记3](pic/s27_3.jpg) | [handdrawn-photo-poster](https://github.com/luji12/handdrawn-photo-poster)| 螂狗日记 |
 | ![尼尔.S1](pic/s28_1.jpg) | ![尼尔.S2](pic/s28_2.jpg) | ![尼尔.S3](pic/s28_3.jpg) | [neil-night-skill](https://github.com/Nealsun1993/neil-night-skill)| 尼尔.S |
+| ![糖油炸弹💣1](pic/s29_1.jpg) | ![糖油炸弹💣2](pic/s29_2.jpg) | ![糖油炸弹💣3](pic/s29_3.jpg) | [tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill)| 糖油炸弹💣 |
+
 
 
 
@@ -112,7 +114,45 @@
     </td>
   </tr>
  <!------------------------------------------------------------------------------------------>
-  
+
+
+
+  <td align="center">
+      <img src="pic/s14_1.jpg" alt="王二_Wanger1" style="max-width:90%;">
+      <br>王二_Wanger
+    </td>
+    <td align="center">
+      <img src="pic/s14_2.jpg" alt="王二_Wanger2" style="max-width:90%;">
+      <br>王二_Wanger
+    </td>
+    <td align="center">
+      <img src="pic/s14_3.jpg" alt="王二_Wanger3" style="max-width:90%;">
+      <br>王二_Wanger
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+ 用户上传的图片是唯一的内容与颜色来源。先在内部观察原图，不输出分析:自动选择一个最有辨识度的主体轮廓作为手绘元素;自动提取一个代表性色、一个最深结构色和一个浅色中性色;自动生成一个与画面有关的2-4个英文单词的编辑标题。不要寻找、假设或引用第二张图。
+里全部满足:
+一轮生成一张2:3竖版独立摄影Zine明信片正面，以下规则必须在同一张图
+1.象牙白纸张本身就是整张画布，从左上角连续延伸到右下角，四条画布边缘就是纸张边缘。不要在白色背景上再画一张卡片，不要卡片外轮廓、圆角、外部背景、样机、阴影、Polaroid、胶带或剪贴簿。
+2.上方放置用户上传的真实照片，占高度约44%、宽度约88%，保持摄影质感、真实颜色和原始比例，不重绘、不扩图、不换图，只加极细灰线和窄纸边
+3.照片下方保留约16%高度的连续象牙白留白，完全空白，不放文字、图案
+或装饰。
+4.下半部右侧清晰绘制刚才自动选择的主体轮廓，占卡片宽度约45%。它是直接画在纸上的开放式手绘观察笔记，不是第二张照片或完整风景画。使用冷灰细墨线、断续轮廓，以及从原图三个色系中提取的透明偏干水彩薄涂;边缘自然消失在纸面，内部保留大量纸白。不能只画空线稿。下半部不画任何矩形边框，不画包围插画或文字的线框，不画左右分隔竖线，不画上下分隔横线;整张图中唯一允许的直线只有照片的极细边线，以及LOCATION、DATE 后各一条短横线。
+5.左下只出现一组档案文字。整张图的文字严格只有5项，各出现1次:自动生成的英文标题;斜体 Postcard;LOCATION与空白短横线;DATE与空白短横线;No.加一个编号。编号优先使用上传文件名末尾数字，无法读取时使用001。LOCATION和DATE保持空白。第5项之后不再出现任何编号或文字。
+6.档案文字下方优先只出现一行3个小型手绘颜料点，依次使用代表性色、
+最深结构色和浅色中性色。大小一致、间距均匀、哑光且边缘略不规则;不要
+第二行色点、UI色块或长条色卡。
+7.纸张为中性暖象牙白，只带极轻微无涂布纸纹。整体气质:independent
+photography zine, editorial archive, Swiss/Japanese book design,
+quiet collectible print, large negative space.
+输出前在内部检查:下半部边框和分隔线为O;文字项目只有5项且各出现1 次;颜料点保持一行、颜色来自原图。再检查照片未重绘、中央留白连续、右下同时有细墨线与透明薄水彩。只输出一张最终正面图片，不解释步骤，不提供第二张图。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ 
 </table>
 
 
