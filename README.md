@@ -23,7 +23,7 @@
 | ![海星Hisea1](pic/s20_1.jpg) | ![海星Hisea2](pic/s20_2.jpg) | ![海星Hisea3](pic/s20_3.jpg) | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)| 海星Hisea |
 | ![Aomo1](pic/s21_1.jpg) | ![Aomo2](pic/s21_2.jpg) | ![Aomo3](pic/s21_3.jpg) | [dreamy-motion-editorial](https://github.com/lzs0594/dreamy-motion-editorial)| Aomo |
 | ![Cinderella1](pic/s22_1.jpg) | ![Cinderella2](pic/s22_2.jpg) | ![Cinderella3](pic/s22_3.jpg) | [photo-ink-echo](https://github.com/zhouaria28-cloud/photo-ink-echo)| Cinderella |
-| ![我不爱汉堡王1](pic/s23_1.jpg) | ![我不爱汉堡王2](pic/s23_2.jpg) | ![我不爱汉堡王3](pic/s23_3.jpg) | [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage)| 我不爱汉堡王 |
+| ![理想鲨鲨1](pic/s23_1.jpg) | ![理想鲨鲨2](pic/s23_2.jpg) | ![理想鲨鲨3](pic/s23_3.jpg) | [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage)| 理想鲨鲨 |
 | ![咕咕咕咕咕嵩鼠1](pic/s24_1.jpg) | ![咕咕咕咕咕嵩鼠2](pic/s24_2.jpg) | ![咕咕咕咕咕嵩鼠3](pic/s24_3.jpg) | [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster)| 咕咕咕咕咕嵩鼠 |
 | ![LensWalker📷1](pic/s25_1.jpg) | ![LensWalker📷2](pic/s25_2.jpg) | ![LensWalker📷3](pic/s25_3.jpg) | [flash4start_light](https://github.com/Buantum/flash4start_light)| LensWalker📷 |
 | ![Lab 3051](pic/s26_1.jpg) | ![Lab 3052](pic/s26_2.jpg) | ![Lab 3053](pic/s26_3.jpg) | [antibes-holiday](https://github.com/haorantang97/antibes-holiday)| Lab 305 |
