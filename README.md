@@ -21,3 +21,4 @@
 | ![像素拌饭1](pic/s18_1.jpg) | ![像素拌饭2](pic/s18_2.jpg) | ![像素拌饭3](pic/s18_3.jpg) | [paper-spirit-zine](https://github.com/wnby/paper-spirit-zine)| 像素拌饭 |
 | ![理智画1](pic/s19_1.jpg) | ![理智画2](pic/s19_2.jpg) | ![理智画3](pic/s19_3.jpg) | [ai-editorial-print-studio](https://github.com/liuzihe849-png/ai-editorial-print-studio)| 理智画 |
 | ![海星Hisea1](pic/s20_1.jpg) | ![海星Hisea2](pic/s20_2.jpg) | ![海星Hisea3](pic/s20_3.jpg) | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)| 海星Hisea |
+| ![Aomo1](pic/s21_1.jpg) | ![Aomo2](pic/s21_2.jpg) | ![Aomo3](pic/s21_3.jpg) | [dreamy-motion-editorial](https://github.com/lzs0594/dreamy-motion-editorial)| Aomo |
