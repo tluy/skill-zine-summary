@@ -30,8 +30,11 @@
 | ![螂狗日记1](pic/s27_1.jpg) | ![螂狗日记2](pic/s27_2.jpg) | ![螂狗日记3](pic/s27_3.jpg) | [handdrawn-photo-poster](https://github.com/luji12/handdrawn-photo-poster)| 螂狗日记 |
 | ![尼尔.S1](pic/s28_1.jpg) | ![尼尔.S2](pic/s28_2.jpg) | ![尼尔.S3](pic/s28_3.jpg) | [neil-night-skill](https://github.com/Nealsun1993/neil-night-skill)| 尼尔.S |
 | ![糖油炸弹💣1](pic/s29_1.jpg) | ![糖油炸弹💣2](pic/s29_2.jpg) | ![糖油炸弹💣3](pic/s29_3.jpg) | [tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill)| 糖油炸弹💣 |
-
-
+| ![蜗的天1](pic/s30_1.jpg) | ![蜗的天2](pic/s30_2.jpg) | ![蜗的天3](pic/s30_3.jpg) | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 蜗的天 |
+| ![梵想美学1](pic/s31_1.jpg) | ![梵想美学2](pic/s31_2.jpg) | ![梵想美学3](pic/s31_3.jpg) | [fantasy-life-force-portrait-photography](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 梵想美学 |
+| ![梵想美学1](pic/s32_1.jpg) | ![梵想美学2](pic/s32_2.jpg) | ![梵想美学3](pic/s32_3.jpg) | [culture-fragment-poster-engine](https://github.com/dacnay816y62-hub/culture-fragment-poster-engine)| 梵想美学 |
+| ![梵想美学1](pic/s33_1.jpg) | ![梵想美学2](pic/s33_2.jpg) | ![梵想美学3](pic/33_3.jpg) | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)| 梵想美学 |
+| ![梵想美学1](pic/s34_1.jpg) | ![梵想美学2](pic/s34_2.jpg) | ![梵想美学3](pic/s34_3.jpg) | [cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)| 梵想美学 |
 
 
 
@@ -147,7 +150,7 @@
 7.纸张为中性暖象牙白，只带极轻微无涂布纸纹。整体气质:independent
 photography zine, editorial archive, Swiss/Japanese book design,
 quiet collectible print, large negative space.
-输出前在内部检查:下半部边框和分隔线为O;文字项目只有5项且各出现1 次;颜料点保持一行、颜色来自原图。再检查照片未重绘、中央留白连续、右下同时有细墨线与透明薄水彩。只输出一张最终正面图片，不解释步骤，不提供第二张图。
+输出前在内部检查:下半部边框和分隔线为0;文字项目只有5项且各出现1 次;颜料点保持一行、颜色来自原图。再检查照片未重绘、中央留白连续、右下同时有细墨线与透明薄水彩。只输出一张最终正面图片，不解释步骤，不提供第二张图。
     </td>
   </tr>
  <!------------------------------------------------------------------------------------------>
