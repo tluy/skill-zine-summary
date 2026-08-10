@@ -34,11 +34,11 @@
       <br>糖油炸弹
     </td>
     <td align="center">
-      <img src="pic/p01_2.jpg" alt="糖油炸弹1" style="max-width:90%;">
+      <img src="pic/p01_2.jpg" alt="糖油炸弹2" style="max-width:90%;">
       <br>糖油炸弹
     </td>
     <td align="center">
-      <img src="pic/p01_3.jpg" alt="糖油炸弹1" style="max-width:90%;">
+      <img src="pic/p01_3.jpg" alt="糖油炸弹3" style="max-width:90%;">
       <br>糖油炸弹
     </td>
   </tr>
@@ -48,4 +48,38 @@
 整体：米白哑光纸张底色，大面积留白，大面积留白，简约东方建筑风景研究版式，干净高级，无多余装饰。
     </td>
   </tr>
+
+ <tr>
+    <td align="center">
+      <img src="pic/p02_1.jpg" alt="橙不甜1" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+    <td align="center">
+      <img src="pic/p02_2.jpg" alt="橙不甜2" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+    <td align="center">
+      <img src="pic/p02_3.jpg" alt="橙不甜3" style="max-width:90%;">
+      <br>糖油炸弹
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+风格要求如下：
+整体偏艺术化、克制、安静，带有现代平面设计感
+主体置于大面积留白背景中，背景建议为白色、暖白色或极浅灰色
+不要做成普通剪影，也不要做成写实插画
+不要只是把照片硬塞进轮廓里，要保留自然纹理的流动感与图像内部的层次
+可以加入适度的切片、重复、错位、阶梯边缘、分帧叠片效果，让画面更有设计语言
+构图简洁，主体居中或偏中部，画面要干净
+允许保留少量颗粒感、胶片感或轻微印刷质感
+最终效果应像一张兼具摄影、图形设计与视觉转译意味的艺术海报
+重点不是复制原图，而是提炼原图中最动人的结构与纹理，并借由新轮廓完成视觉转译。
+    </td>
+  </tr>
+
+  
 </table>
+
+
+
