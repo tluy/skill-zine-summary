@@ -38,6 +38,9 @@
 | ![梵想美学1](pic/s35_1.jpg) | ![梵想美学2](pic/s35_2.jpg) | ![梵想美学3](pic/s35_3.jpg) | [fantasy-movie-poster-skill](https://github.com/dacnay816y62-hub/fantasy-movie-poster-skill)| 梵想美学 |
 | ![梵想美学1](pic/s36_1.jpg) | ![梵想美学2](pic/s36_2.jpg) | ![梵想美学3](pic/s36_3.jpg) | [street-photo-illustration](https://github.com/dacnay816y62-hub/street-photo-illustration)| 梵想美学 |
 | ![长曝研究院×柳生1](pic/s37_1.jpg) | ![长曝研究院×柳生2](pic/s37_2.jpg) | ![长曝研究院×柳生3](pic/s37_3.jpg) | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)| 长曝研究院×柳生 |
+| ![云间一纸书1](pic/s38_1.jpg) | ![云间一纸书2](pic/s38_2.jpg) | ![云间一纸书3](pic/s38_3.jpg) | [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie)| 云间一纸书 |
+
+     
 
 
 
@@ -158,7 +161,120 @@ quiet collectible print, large negative space.
   </tr>
  <!------------------------------------------------------------------------------------------>
 
- 
+
+
+  <td align="center">
+      <img src="pic/p04_1.jpg" alt="悯言1" style="max-width:90%;">
+      <br>悯言
+    </td>
+    <td align="center">
+      <img src="pic/p04_2.jpg" alt="悯言2" style="max-width:90%;">
+      <br>悯言
+    </td>
+    <td align="center">
+      <img src="pic/p04_3.jpg" alt="悯言3" style="max-width:90%;">
+      <br>悯言
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+ 实景萃取-淡绘 Zine 风景明信片。仓库名 ：photo-to-zine-postcard
+prompt 模板（通用）：Create a minimal portrait postcard front using the fixed V3 Lite structure.
+Use the actual source photo in the upper area. Preserve its exact original aspect ratio. Do not repaint, replace, stretch, or crop it unless cropping was explicitly requested. Center it horizontally, keep generous margins, add a very thin frame, and leave a small even paper gap between the photo and frame.
+Keep a large blank transition area below the photo.
+In the lower area, use:
+- one compact metadata block on the lower left
+- one large source-specific main motif on the lower right
+- optionally one much smaller supporting motif near it
+- exactly three small color swatches sampled from the source photo
+Select the main motif based on visual attractiveness and source identity, not ease of extraction. Prefer the most distinctive color-rich and elegant feature in the image. When the source contains a dominant color feature, choose that feature as the main motif. Do not choose a dull neutral fragment when a stronger colored motif exists.
+Render the main motif as a restrained hand-drawn editorial illustration whenever suitable. Preserve its original silhouette, major internal structure, identity, and source color character. Use controlled watercolor, gouache, ink, pencil, or cut-paper illustration treatment. Keep it clean, sharp, and clearly derived from the source photo.
+Use a source crop only when exact fidelity is essential.
+The main motif should occupy roughly 28% to 38% of the card width and remain subordinate to the photo.
+Use exactly three tiny source-derived color swatches: dominant color, dark structural color, and pale neutral or accent color.
+Add only:
+- title
+- optional short subtitle
+- LOCATION
+- DATE
+- small index number
+Leave location and date values blank if the user did not provide them.
+Do not add keyword lists, sample boxes, rows of cutouts, image cards, generic circles, large color blocks, wave doodles, badges, seals, logos, or long text.
+Use warm ivory paper with subtle grain.
+Quality: highest detail quality, sharp and clear, crisp edges, refined hand-drawn texture, low noise, no blur, suitable for later 4× super-resolution upscaling.
+Overall mood: minimal, airy, refined, source-specific, lightly hand-crafted, and collectible.
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p05_1.jpg" alt="AI_圈儿1" style="max-width:90%;">
+      <br>AI_圈儿
+    </td>
+    <td align="center">
+      <img src="pic/p05_2.jpg" alt="AI_圈儿2" style="max-width:90%;">
+      <br>AI_圈儿
+    </td>
+    <td align="center">
+      <img src="pic/p05_3.jpg" alt="AI_圈儿3" style="max-width:90%;">
+      <br>AI_圈儿
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+ Use the uploaded image as the sole creative source. The final output must consist only of an abstract memory panel plus a poetic English title. Strictly prohibited: standalone abstract paintings, direct filter overlays, or illustrative compositions.
+I. Source Material Positioning
+The original image serves as the exclusive information source for the abstract panel. Extract spatial logic—including subject placement, scale, directional flow, horizontal/vertical axes, spacing, occlusion hierarchy, light/dark values, color, and negative space—to reconstruct abstract visual content. Do not introduce unrelated objects, colors, or scenes at any stage.
+II. Creative Workflow
+Follow this fixed sequence: Deconstruct → Filter & Retain → Abstract Refinement → Recompose.
+Strictly prohibited: style transfer, photo vectorization, or thumbnail tracing.
+Identify 3–6 core spatial features: material texture, structural axes, kinetic rhythm, density/occlusion, and color hierarchy.
+Remove invalid information: surface textures, perspective details, decorative clutter.
+Recompose spatial relationships using minimalist symbols. At first glance, the result reads as a minimalist abstract composition; upon closer inspection, it evokes the original image.
+Composition must echo the unique rhythm of the source image. Prohibited outcomes: thumbnail sketches, posters, illustrations, icons, or filtered effects.
+III. Abstraction Standards (Relationships First, Contours Secondary)
+Landscapes, light/shadow, water surfaces, crowds: Retain only direction, density, layering, and color relationships. Discard complete outlines.
+Distinctive architecture: Preserve only 1–3 iconic silhouette features. Omit windows, carvings, railings, and ornamentation.
+Clouds, foliage, lighting clusters: Use soft color blocks to convey aggregation and diffusion. No internal textures or realistic highlights.
+Crowds: Represent uniformly with irregular short vertical color bars. Do not depict heads, limbs, or facial features. Rhythm emerges from height variation and density.
+Roads, horizons: Simplify to 1–2 thin horizontal lines with minimal breaks/gaps.
+Small objects (bells, lanterns, etc.): Use 2–3 flat planar symbols only. Do not render volume, highlights, or internal structure.
+Core principle: Retain the minimum level of recognizability; never create realistic replicas.
+IV. Symbol & Mark Guidelines
+Select one primary mark, optionally paired with up to two auxiliary marks.
+Primary marks: solid color blocks, soft irregular shapes, gestural brushstrokes, layered color bands, simplified architectural forms.
+Auxiliary marks: thin axis lines, dots, minimal human silhouettes, repeated short strokes.
+All symbols must correspond directly to real elements in the source image. No invented decorations or rigidly symmetrical patterns.
+Avoid mechanical equidistant spacing. Introduce subtle variations in size and position to simulate organic visual rhythm and reject chart-like regularity.
+V. Abstract Panel Layout
+Background: Uniform, unblemished ivory or a matching monochromatic tone. No gradients, textures, or noise.
+Placement: Position the abstract subject off-center—mid-frame or lower-middle area.
+Standard proportions: Pattern width 30%–42% of panel; height 28%–34%. Negative space occupies 65%–80%.
+Adaptations: For wide horizontal scenes, extend width to 45%–68% while reducing height accordingly.
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+
+  <td align="center">
+      <img src="pic/p06_1.jpg" alt="云边客1" style="max-width:90%;">
+      <br>云边客
+    </td>
+    <td align="center">
+      <img src="pic/p06_2.jpg" alt="云边客2" style="max-width:90%;">
+      <br>云边客
+    </td>
+    <td align="center">
+      <img src="pic/p06_3.jpg" alt="云边客3" style="max-width:90%;">
+      <br>云边客
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+ 独立米色留白区域，水墨扁平解构插画，提取原图全部景物几何极简简化，分层柔和色块，毛笔淡墨晕染笔触，无锐利硬线条，复刻原图全部色彩调性，删除全部细碎纹理、杂物、光影；画面最底部添加纤细优雅衬线英文标题，整体米白哑光纸张底色，大面积留白，简约东方建筑风景研究版式。干净高级，无多余装饰。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
 </table>
 
 
