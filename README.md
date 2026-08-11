@@ -41,6 +41,8 @@
 | ![云间一纸书1](pic/s38_1.jpg) | ![云间一纸书2](pic/s38_2.jpg) | ![云间一纸书3](pic/s38_3.jpg) | [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie)| 云间一纸书 |
 | ![卓一_Z·ONE1](pic/s39_1.jpg) | ![卓一_Z·ONE2](pic/s39_2.jpg) | ![卓一_Z·ONE3](pic/s39_3.jpg) | [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch)| 卓一_Z·ONE |
 | ![卓一_Z·ONE1](pic/s40_1.jpg) | ![卓一_Z·ONE2](pic/s40_2.jpg) | ![卓一_Z·ONE3](pic/s40_3.jpg) | [ZONE-Material-art](https://github.com/joeyhu1108-maker/ZONE-Material-art)| 卓一_Z·ONE |  
+| ![iamkong1](pic/s41_1.jpg) | ![iamkong2](pic/s41_2.jpg) | ![iamkong3](pic/s41_3.jpg) | [photo-to-minimal-illustration](https://github.com/iamkong/photo-to-minimal-illustration)| iamkong |  
+
 
 
 
@@ -368,20 +370,19 @@ Adaptations: For wide horizontal scenes, extend width to 45%–68% while reducin
  真人照片 × 拖进蜡笔世界
 
 本期效果
-
 保留真人的脸、服装、动作和摄影质感，只把人物周围的环境重画成粗糙的蜡笔涂鸦世界。本期已测试自拍、喝饮料、动态抓拍、街拍、拍照、骑车和室内近景。
 
 适用照片
 
-- 单人生活照
-- 人物轮廓清楚
-- 动作或视线方向明确
-- 人物周围有一定空间
-- 背景普通、方便替换
+单人生活照
+人物轮廓清楚
+动作或视线方向明确
+人物周围有一定空间
+背景普通、方便替换
 
 坐着、伸手、喝饮料、拍照、骑车和回头等照片，更容易让涂鸦与人物产生互动。
 
-一键复制提示词
+提示词
 
 保留输入照片中的真人作为画面主体，将真人处理成具有真实摄影质感的纸质剪贴照片。完整保留人物身份特征、面部五官、年龄、发型、神态、姿势、身体比例、手部动作、原有服装、鞋子、配饰、拍摄角度和画面构图。不要美化人物，不要把真人变成插画。
 
@@ -417,22 +418,19 @@ Adaptations: For wide horizontal scenes, extend width to 45%–68% while reducin
   </tr>
   <tr>
     <td colspan="3" align="center">
- 每日 Prompt 第3期｜霓虹怪趣涂鸦
+霓虹怪趣涂鸦
  
 本期效果
- 
 保留真人摄影质感，把环境替换成深炭灰背景和巨大的荧光黄绿色圆。人物外轮廓增加白色排线，再加入四只黑白灰怪趣小生物、三枚白色 X 和少量动态符号，形成街头海报与独立杂志拼贴感。
  
 适用照片
- 
-- 单人半身、全身或近景人像
-- 人物轮廓清楚，头发、手部和服装可辨
-- 侧身、行走、转头、后仰等动作明确的照片
-- 黑白灰、蓝色或其他低饱和穿搭
- 
+单人半身、全身或近景人像
+人物轮廓清楚，头发、手部和服装可辨
+侧身、行走、转头、后仰等动作明确的照片
+黑白灰、蓝色或其他低饱和穿搭
 多人重叠、主体太小、面部模糊和肢体严重裁切的照片，成片稳定性会下降。
  
-一键复制提示词
+提示词
  
 将输入照片制作成方形高密度独立杂志街头海报拼贴。严格保留真人身份、脸型、五官、年龄、肤色、发型、表情、姿势、身体比例、手部、服装、配饰、关键物品、拍摄角度和主体裁切。人物必须保持自然摄影质感，不得被重新画成动漫或插画。
  
