@@ -43,8 +43,8 @@
 | ![卓一_Z·ONE1](pic/s40_1.jpg) | ![卓一_Z·ONE2](pic/s40_2.jpg) | ![卓一_Z·ONE3](pic/s40_3.jpg) | [ZONE-Material-art](https://github.com/joeyhu1108-maker/ZONE-Material-art)| 卓一_Z·ONE |  
 | ![iamkong1](pic/s41_1.jpg) | ![iamkong2](pic/s41_2.jpg) | ![iamkong3](pic/s41_3.jpg) | [photo-to-minimal-illustration](https://github.com/iamkong/photo-to-minimal-illustration)| iamkong |  
 | ![Dlcccc719131](pic/s42_1.jpg) | ![Dlcccc719132](pic/s42_2.jpg) | ![Dlcccc719133](pic/s42_3.jpg) | [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive)| Dlcccc71913 |  
-
-
+| ![小灯只工作不上班1](pic/s43_1.jpg) | ![小灯只工作不上班2](pic/s43_2.jpg) | ![小灯只工作不上班3](pic/s43_3.jpg) | [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch)| 小灯只工作不上班 |
+| ![尼尔.S1](pic/s44_1.jpg) | ![尼尔.S2](pic/s44_2.jpg) | ![尼尔.S3](pic/s44_3.jpg) | [neil-quentin](https://github.com/Nealsun1993/neil-quentin)| 尼尔.S |
 
 
 # Prompt 样图与提示词汇总
@@ -600,7 +600,7 @@ AI直出朋友圈插画风游记照片。📸只需要上传图片加【括号�
   </tr>
   <tr>
     <td colspan="3" align="center">
-为我的一位订阅者更新。豆包、Chatgpt、Gemini都能用的提示词：
+豆包、Chatgpt、Gemini都能用的提示词：
 将我提供的真实城市/风景照片，转换为一张上下分区的高级艺术海报。
 整体风格为：minimal editorial poster, poetic city illustration, contemporary art book aesthetic, Scandinavian minimalism, Japanese editorial design, soft gouache illustration, abstract cityscape, quiet luxury poster, refined print design。
 构图
@@ -721,6 +721,214 @@ vertical poster, 2:3 ratio, high resolution, premium editorial composition
     </td>
   </tr>
  <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p19_1.jpg" alt="衣落尘1" style="max-width:90%;">
+      <br>衣落尘
+    </td>
+    <td align="center">
+      <img src="pic/p19_2.jpg" alt="衣落尘2" style="max-width:90%;">
+      <br>衣落尘
+    </td>
+    <td align="center">
+      <img src="pic/p19_3.jpg" alt="衣落尘3" style="max-width:90%;">
+      <br>衣落尘
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+提示词：以上传图片作为唯一创作素材，成品仅由抽象记忆面板 + 诗意英文标题构成，禁止单独绘制抽象画、直接套用滤镜。
+一、素材定位
+原图仅作为抽象面板的唯一信息源，提取画面主体位置、比例、走向、横竖轴线、间距、遮挡层级、明暗色彩、留白等空间逻辑，重构为抽象视觉内容，全程禁止新增无关物象、色彩与场景。
+二、创作流程
+固定流程：解构→筛选留存→抽象提纯→重组重构，拒绝风格迁移、照片矢量化。
+锁定画面 3-6 个核心空间特征，区分形体质感、结构轴线、运动节奏、疏密遮挡、色彩层级；
+剔除纹理、透视细节、杂物装饰等无效信息；
+用极简符号重组空间关系，画面第一眼为极简抽象构图，细看可联想原图；
+构图贴合原图独有节奏，禁止做成缩略描摹、海报、插画、图标、滤镜效果图。
+三、抽象绘制标准（关系优先，弱化轮廓）
+风景、光影、水面、人群：只保留走向、疏密、层级、色彩关系，舍弃完整轮廓；
+特色建筑：仅保留 1-3 个标志性外形特征，门窗、雕花、栏杆等细节全部省略；
+云团、树冠、灯光等群体：用柔和色块表现聚集、扩散趋势，无内部纹路与写实高光；
+人群：统一用不规则短竖色块概括，不分头、四肢、五官，依靠排布高低、疏密营造节奏；
+道路、地平线：简化为 1-2 条细横线搭配少量缺口；
+铃铛、灯笼等小物件：仅用 2-3 个平面符号标识，不刻画体积、高光、内部构造；
+核心准则：仅保留最低辨识度，不写实复刻物体。
+四、符号标记规范
+选用 1 类主标记，至多搭配 2 类辅助标记
+主标记可选：纯色块、柔和不规则图形、弧形笔触、层叠色带、简化建筑形体；
+辅助标记可选：细轴线、小点、简约人影、重复短线条；
+所有符号必须对应原图实景，禁止凭空添加装饰、规整对称图案；
+排布拒绝刻板等距，符号间设置细微大小、位置偏差，模拟自然视觉节奏，摒弃规整图表样式。
+五、抽象面板版式
+底色固定为均匀无杂质象牙色 或适配同色系，无渐变、纹理、杂色；
+抽象主体放置在面板中部、中下部等非对称位置；
+常规尺寸：图案宽度占面板 30%-42%，高度 28%-34%，大面积留白 65%-80%；
+适配调整：横向长景可放宽宽度至 45%-68%，压低高度；高耸建筑可拉高图案，禁止填满版面；密集物象保持聚拢，不随意分散；
+图案内部排布、疏密、重心、不对称结构完整保留，不因缩放丢失内在逻辑。
+六、色彩规则
+仅提取原图色彩，整体降饱和、精简色彩数量：固定 1 个主色、1 个深色结构色、1 个浅中性色，至多添加两处小面积强调色；强调色取自原图实景，仅限点缀关键符号，禁用霓虹色、凭空搭配的冲突色彩。
+七、标题创作
+原创英文标题，2-5 个单词，遵循写实、易懂、诗意内敛的要求，贴合光影、空间、物象关系、动态意境；
+可选副标题（3-7 个单词），仅用来补充新意，不可复述主标题；
+禁用地点介绍、摄影专业词、空洞泛词、宏大无关叙事。
+八、标题排版
+仅限放置在象牙面板内图案下方 / 侧边，禁止放在图案内部、画面边缘；
+两种排版：
+左下对齐：画面重心偏右、横向图案使用，横竖排版均可，预留 6%-9% 边距；
+底部居中：居中构图、对称建筑使用，与图案中心对齐，远离图案；
+字体：主标题用克制优雅衬线体，建筑题材选用稳重衬线体，自然风光选用纤细人文衬线体；副标题用小号斜体衬线；禁用粗体、卡通、手写、广告字体；
+配色：选用原图深色低饱和色调，拒绝纯黑与高饱和亮色，副标题颜色进一步降饱和。
+九、画面洁净规范
+面板背景杜绝渐变、光影、阴影、噪点、纹理、污渍、扫描痕迹等一切杂效；图案边缘可轻微自然不规则，氛围感仅依靠留白、疏密、尺度差、不对称营造，不依靠材质特效。
+十、最终输出要求
+仅输出单张成品图，只留存主标题与合规副标题，无任何水印、签名、图例、注释、编号；严禁重绘原图、扩图、滤镜化、描摹、规整图标、多余装饰、虚构物象与对称结构。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p20_1.jpg" alt="JM.BCL1" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p20_2.jpg" alt="JM.BCL2" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p20_3.jpg" alt="JM.BCL3" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+豆包、chatgpt、gemini都能用的提示词放在这里啦：
+将我提供的真实城市/风景照片转换为一张 上下分区的高级艺术海报。
+整体风格：
+minimal editorial poster, poetic city illustration, contemporary art book aesthetic, Scandinavian minimalism, Japanese editorial design, soft gouache illustration, quiet luxury, refined print design.
+上半部分｜真实摄影
+严格保留原照片的主体、建筑、天空、灯光、云层、月亮及整体构图，仅进行轻微电影感调色。降低饱和度，保留自然光影与真实摄影质感。色调柔和、克制，以蓝灰、暖黄、米白等低饱和色为主。避免 HDR、过度锐化和 AI 重绘感。
+下半部分｜极简艺术插画
+以下方插画重新提炼上方照片中最具辨识度的天际线、建筑、云层、灯光、月亮等元素，保持明显对应关系，但不要机械临摹。
+建筑简化为几何色块，远景压缩为小型剪影，云层转化为柔软横向笔触，月亮简化为新月，灯光以少量暖黄色点缀。
+质感：
+soft gouache, dry brush texture, watercolor-like opacity, subtle paper grain, hand-painted editorial illustration, soft imperfect edges, matte printed texture.
+配色：
+warm ivory, muted navy blue, blue grey, smoky grey, warm ochre, mustard yellow, soft beige, low saturation.
+保持大量米白负空间，元素疏朗、平衡、安静、诗意、现代。不要明显描边，不要卡通、赛博朋克、3D、矢量图标感，不要复杂装饰和商业广告感。
+底部加入极简杂志式英文排版：
+Where City Sleeps
+between light and quiet
+主标题使用优雅经典 serif 字体，深蓝灰色；副标题使用细腻 editorial italic serif，左对齐，小字号，大量留白。
+最终效果类似独立艺术杂志、城市摄影集、当代艺术书籍封面或博物馆商店艺术海报，形成 真实摄影 + 极简手绘插画 的双重视觉表达。
+vertical poster, 2:3 ratio, high resolution, premium editorial composition, no cheap AI look.
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p21_1.jpg" alt="韦恩_AI_说1" style="max-width:90%;">
+      <br>韦恩_AI_说
+    </td>
+    <td align="center">
+      <img src="pic/p21_2.jpg" alt="韦恩_AI_说2" style="max-width:90%;">
+      <br>韦恩_AI_说
+    </td>
+    <td align="center">
+      <img src="pic/p21_3.jpg" alt="韦恩_AI_说3" style="max-width:90%;">
+      <br>韦恩_AI_说
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+怪趣涂鸦入侵
+ 
+本期效果
+ 
+保留照片中人物的身份、脸部、皮肤、姿势、服装、手部和关键物品，把原背景替换为暖米白纯色（约 `#F3EBDD`），再加入电光蓝、亮黄、鲜红、绿色、黑色和白色组成的手绘涂鸦生物与动态线，形成“真人照片 + 怪趣涂鸦海报”的混合效果。
+ 
+提示词
+ 
+使用输入照片作为主体，进行“真人照片 + 怪趣涂鸦入侵”的局部风格化编辑。严格保持人物身份、脸部五官、发型、肤色、年龄、表情、姿势、身体比例、服装款式与配色、手部、手中物品和原始构图可辨识，不把人物变成卡通。
+ 
+将整张照片的原背景替换为干净的暖米白纯色背景（#F3EBDD），不要保留原背景中的建筑、天空、室内陈设、路牌或其他环境元素。围绕人物重新设计一层手绘涂鸦：加入电光蓝的大型圆环或怪趣生物、亮黄色长条生物、绿色小人、鲜红色多足生物，以及黑色粗线、白色高光、黄色强调线和少量红色喷涂色块。
+ 
+涂鸦使用粗黑不规则描边、马克笔/喷漆质感、夸张眼睛和幽默表情，像街头涂鸦海报中的手绘角色。让涂鸦根据人物的动作、视线和服装轮廓进行环绕、穿插和互动，但不要遮挡脸部、手部、主体服装和关键物品；装饰必须是有构图意识的原创手绘元素，不要像随机贴纸拼贴。
+ 
+保持人物本身为自然摄影质感，只在人物外部及允许的服装边缘叠加涂鸦。整体画面色彩鲜艳、对比强、带有轻微混乱感和幽默感，但边缘清楚、主体完整、画面适合竖屏发布。
+ 
+负面提示词
+ 
+不要改变人物身份、脸部五官、发型、肤色、年龄、表情、姿势和身体比例；不要美颜换脸；不要把人物皮肤、脸、手、手指和身体变成卡通；不要改变服装款式、配色、图案或配饰；不要新增人物、肢体或手指；不要遮挡脸部、手部、主体服装和关键物品；不要保留原背景；不要生成建筑、天空、室内陈设、路牌或复杂环境；不要油画、水彩、3D、黏土、二次元整脸或纯插画风；不要密集贴纸、随机图标、乱码、可读文字、Logo、水印或边框。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p22_1.jpg" alt="溟渟1" style="max-width:90%;">
+      <br>溟渟
+    </td>
+    <td align="center">
+      <img src="pic/p22_2.jpg" alt="溟渟2" style="max-width:90%;">
+      <br>溟渟
+    </td>
+    <td align="center">
+      <img src="pic/p22_3.jpg" alt="溟渟3" style="max-width:90%;">
+      <br>溟渟
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+当我把旅行照片发给豆包，就得到…提示词如下：
+画面主体：一张采用竖向二分构图的哑光米白画册明信片。
+上半区（实景）：严格保留高清写实摄影风景原貌。完全沿用原始景物的空间布局、物理轮廓及原生低饱和度配色，零改动，维持原生光影质感。
+下半区（水墨重构）：独立的米色留白区域，置入水墨扁平重构插画。提取上半部分全部景物，将其解构为极简几何形态。运用分层平涂的柔和色块，结合毛笔淡墨的晕染笔触，彻底摒弃锐利硬边。严格复刻原图整体色彩调性，但完全剔除所有细碎纹理、冗余杂物及复杂光影，仅保留纯粹的结构神韵。
+排版文字：画面最底端，底部居中排版。首行为优雅的衬线手写体英文标题，次行为字号更小的无衬印英文描述短句。
+整体质感：基于米白哑光特种纸底色，贯彻大面积留白理念。遵循极简主义东方建筑风景研究的版式逻辑，呈现出干净、克制、高级且具有学术感的视觉效果，无任何多余装饰元素。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p23_1.jpg" alt="喵呜老师1" style="max-width:90%;">
+      <br>喵呜老师
+    </td>
+    <td align="center">
+      <img src="pic/p23_2.jpg" alt="喵呜老师2" style="max-width:90%;">
+      <br>喵呜老师
+    </td>
+    <td align="center">
+      <img src="pic/p23_3.jpg" alt="喵呜老师3" style="max-width:90%;">
+      <br>喵呜老师
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+完整锁定原图构图、物体、波纹、鱼群/落叶/花瓣/人物轮廓不变，先校正基础画面：校准曝光与白平衡，去除脏灰；暗部层次丰富不死黑，高光不溢出，宽动态。写实静谧水面摄影，低明度深清澈墨青水面，侧斜落日柔光铺满水面，布满大量错落细碎暖金色星光碎金反光，光点闪烁；带有偏重的梦幻柔光，高锐度，波纹、倒影、水下石、鱼身、落叶、雨滴涟漪纹理锐利清晰。暗部自带细腻青蓝色阶，冷暖对比柔和高级，低噪点原生写实质感，无滤镜磨皮，松弛治愈安静氛围。侧斜落日柔光，水面铺满错落细碎暖金色星光碎金反光，低明度深墨青水体，高锐度清晰波纹倒影，暗部暗藏青蓝色阶，冷暖对冲静谧治愈写实水景。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p24_1.jpg" alt="不叫玉玉了1" style="max-width:90%;">
+      <br>不叫玉玉了
+    </td>
+    <td align="center">
+      <img src="pic/p24_2.jpg" alt="不叫玉玉了2" style="max-width:90%;">
+      <br>不叫玉玉了
+    </td>
+    <td align="center">
+      <img src="pic/p24_3.jpg" alt="不叫玉玉了3" style="max-width:90%;">
+      <br>不叫玉玉了
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+提示词：Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, childlike style bad perspective and awkward proportions slightly exaggerated facial features Add: simple cartoon background (like buildings, trees, street) random sketchy lines and details uneven coloring and visible strokes Style: looks like a lazy drawing, not polished humorous and a bit stupid-looking meme-like, casual, internet style Do NOT: make it realistic
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+ 
 
 </table>
 
