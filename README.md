@@ -45,6 +45,10 @@
 | ![Dlcccc719131](pic/s42_1.jpg) | ![Dlcccc719132](pic/s42_2.jpg) | ![Dlcccc719133](pic/s42_3.jpg) | [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive)| Dlcccc71913 |  
 | ![小灯只工作不上班1](pic/s43_1.jpg) | ![小灯只工作不上班2](pic/s43_2.jpg) | ![小灯只工作不上班3](pic/s43_3.jpg) | [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch)| 小灯只工作不上班 |
 | ![尼尔.S1](pic/s44_1.jpg) | ![尼尔.S2](pic/s44_2.jpg) | ![尼尔.S3](pic/s44_3.jpg) | [neil-quentin](https://github.com/Nealsun1993/neil-quentin)| 尼尔.S |
+| ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆1](pic/s45_1.jpg) | ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆2](pic/s45_2.jpg) | ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆3](pic/s45_3.jpg) | [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator)| 𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆 |
+| ![Laurent1](pic/s46_1.jpg) | ![Laurent2](pic/s46_2.jpg) | ![Laurent3](pic/s46_3.jpg) | [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills)| Laurent |
+| ![设计goo1](pic/s47_1.jpg) | ![设计goo2](pic/s47_2.jpg) | ![设计goo3](pic/s47_3.jpg) | [heytea-style](https://github.com/Hchen1218/heytea-style)&[heytea-creative-style](https://github.com/shouna12358-png/heytea-creative-style)| 设计goo |
+| ![N1ko1](pic/s48_1.jpg) | ![N1ko2](pic/s48_2.jpg) | ![N1ko3](pic/s48_3.jpg) | [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab)| N1ko |
 
 
 # Prompt 样图与提示词汇总
@@ -925,6 +929,205 @@ vertical poster, 2:3 ratio, high resolution, premium editorial composition, no c
   <tr>
     <td colspan="3" align="center">
 提示词：Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, childlike style bad perspective and awkward proportions slightly exaggerated facial features Add: simple cartoon background (like buildings, trees, street) random sketchy lines and details uneven coloring and visible strokes Style: looks like a lazy drawing, not polished humorous and a bit stupid-looking meme-like, casual, internet style Do NOT: make it realistic
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+  <td align="center">
+      <img src="pic/p25_1.jpg" alt="西兰公园1" style="max-width:90%;">
+      <br>西兰公园
+    </td>
+    <td align="center">
+      <img src="pic/p25_2.jpg" alt="西兰公园2" style="max-width:90%;">
+      <br>西兰公园
+    </td>
+    <td align="center">
+      <img src="pic/p25_3.jpg" alt="西兰公园3" style="max-width:90%;">
+      <br>西兰公园
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+将上传的图片严格作为唯一的内容来源和摄影原片。生成一张完整的竖向编辑作品，由上方原照片区域 + 下方抽象记忆面板 + 诗意英文标题组成。不要单独生成抽象画，也不要给照片应用滤镜。忠实保留原照片的主体、建筑、人物、光线、颜色、空间关系和摄影气质。只允许克制的等比缩放或轻微裁切；不得重画、扩图、替换、修饰、滤镜化或改变照片内容。内部分析照片中最重要的三至六个空间事实，包括主体关系、比例、位置、方向、结构轴、间距、重复、遮挡、前后层级、色彩角色和留白。按照 “解构 → 选择性保留 → 抽象提炼 → 重构” 的方法，将这些关系转化为照片下方的稀疏抽象母题。抽象结果第一眼应是极简构成，第二眼才让人联想到这张特定照片；不得成为照片缩略图、描摹、完整插画、矢量图标或风格迁移。使用一个主要标记家族，最多两个辅助标记家族。所有标记必须对应照片中的真实视觉事实。优先表达关系、方向、密度、间隔、节奏、层级和非对称，而不是完整物体轮廓。人物只能表现为连续、不规则的短竖墨点或轻微收分色块，不得绘制头部、面孔、四肢和服装。标志性建筑最多保留一至三个最低限度的身份特征。下方面板使用完全均匀、连续、无纹理的中性象牙色背景，推荐 #F3F0E8。抽象母题默认占面板宽度约 30%-42%，高度不超过面板高度的 28%-34%，保留约 65%-80% 的干净留白。照片与面板直接、平面衔接，不使用边框、撕纸、阴影、胶带、拼贴或样机效果。颜色只能从原照片提取并降低饱和度。使用一个主色、一个深色结构色、一个浅色或中性色，最多加入一至两个来自照片的小面积强调色。不得添加无来源的颜色、霓虹色或竞争性色彩。根据照片中真实存在的主体、空间关系、时间、光线、运动和情绪，创作一个原创英文标题，长度为 2-5 个单词。标题需要真实、自然、克制而有诗意，避免空泛的 Memory、Dream、Moment，以及旅游宣传或宏大叙事。标题只能放在象牙色抽象面板内，使用优雅克制的编辑型衬线字体。只有在增加新含义时，才允许添加一个 3-7 个单词的副标题。保持 CLEAN 模式：面板背景不得出现渐变、阴影、发光、暗角、纸张纹理、颗粒、噪点、纤维、水彩、污渍、雾气、扫描痕迹或压缩伪影。气氛只能来自留白、距离、停顿、非对称、尺度差、有限标记和克制配色。只输出一张完成作品。除最终标题和可选副标题外，不得出现任何解释、候选标题、数字、日期、编号、地点说明、色卡、图例、签名、Logo 或水印。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p26_1.jpg" alt="耶加雪菲1" style="max-width:90%;">
+      <br>耶加雪菲
+    </td>
+    <td align="center">
+      <img src="pic/p26_2.jpg" alt="耶加雪菲2" style="max-width:90%;">
+      <br>耶加雪菲
+    </td>
+    <td align="center">
+      <img src="pic/p26_3.jpg" alt="耶加雪菲3" style="max-width:90%;">
+      <br>耶加雪菲
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+豆老师提示词如下：
+画面主体：一张采用竖向二分构图的哑光米白画册明信片。
+上半区（实景）：严格保留高清写实摄影风景原貌。完全沿用原始景物的空间布局、物理轮廓及原生低饱和度配色，零改动，维持原生光影质感。
+下半区（水墨重构）：独立的米色留白区域，置入水墨扁平重构插画。提取上半部分全部景物，将其解构为极简几何形态。运用分层平涂的柔和色块，结合毛笔淡墨的晕染笔触，彻底摒弃锐利硬边。严格复刻原图整体色彩调性，剔除所有细碎纹理、冗余杂物及复杂光影、仅保留纯粹的结构神韵。
+排版文字：画面最底端，底部居中排版。首行为优雅的衬线手写体英文标题，次行为字号更小的无衬印英文描述短句。
+整体质感：基于米白哑光特种纸底色，贯彻大面积留白理念。
+遵循极简主义东方建筑风景研究的版式逻辑，呈现出干净高级且具有学术感的视觉效果，无任何多余装饰元素。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p27_1.jpg" alt="JM.BCL1" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p27_2.jpg" alt="JM.BCL2" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p27_3.jpg" alt="JM.BCL3" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+豆包、chatgpt、gemini都能用的提示词来啦：
+将我提供的真实城市 / 风景照片，转换为一张上下分区的高级艺术海报。
+整体风格为：
+minimal editorial poster, poetic city illustration, contemporary art book aesthetic, Scandinavian minimalism, Japanese editorial design, soft gouache illustration, abstract cityscape, quiet luxury poster, refined print design.
+⸻
+构图方式
+采用上下两部分构图，不要边框，画面自然留白，整体为竖版 2:3 海报。
+⸻
+上半部分｜真实摄影区域
+保留原始照片的真实摄影属性，尽量保持原照片的：
+* 构图
+* 天空
+* 建筑 / 山体 / 海岸 / 道路等主体元素
+* 灯光
+* 云层
+* 月亮或其他关键视觉元素
+仅进行轻微电影感调色：
+* 降低饱和度
+* 保留真实摄影质感
+* 保留自然光影与空间层次
+* 色调柔和、克制、安静
+整体偏向：
+* blue grey
+* warm ochre
+* muted beige
+* smoky grey
+* low saturation natural tones
+避免：
+over-HDR, oversharpening, heavy retouching, fake AI repainting, exaggerated effects.
+⸻
+下半部分｜极简艺术插画区域
+以下方插画作为对上方真实照片的艺术化提炼，两者必须有明显对应关系，让人一眼看出下方来源于上方，但不要机械临摹，不要逐像素复刻。
+将上方照片中最具辨识度的元素进行抽象化概括：
+* 建筑 / 主体结构 → 简化为几何色块
+* 远景 → 压缩为细小矩形或轮廓剪影
+* 云层 → 转化为柔软、不规则的横向笔触
+* 天空与地面 → 只保留少量线条与大色面关系
+* 月亮 → 简化为小型新月图形
+* 灯光 → 用少量暖黄色小色块点缀
+插画质感要求：
+soft gouache, dry brush texture, watercolor-like opacity, subtle paper grain, hand-painted editorial illustration, matte printed texture
+画面特征：
+* 大量米白色留白
+* 元素疏朗
+* 构图平衡
+* 安静、诗意、现代
+* 有纸张印刷感
+* 有艺术书 / 杂志内页气质
+避免：
+明显描边、卡通感、赛博朋克、3D感、矢量图标感、廉价AI感、复杂装饰。
+⸻
+整体配色
+使用克制、低饱和的高级配色：
+warm ivory, muted navy, blue grey, smoky grey, warm ochre, mustard yellow, soft beige, low saturation
+⸻
+文字排版
+在海报底部加入极简杂志式英文排版：
+* 主标题：根据图片内容自动生成英文标题
+* 副标题：根据图片内容自动生成英文副标题
+排版要求：
+* 主标题使用优雅经典衬线字体（deep blue grey）
+* 副标题使用细腻斜体 serif / editorial italic
+* 左对齐
+* 字号克制
+* 留出充足呼吸空间
+* 整体像艺术杂志排版，而不是商业广告文案
+⸻
+最终效果
+整体画面应像：
+* 独立艺术杂志内页
+* 城市 / 风景旅行摄影集
+* 当代艺术书籍封面
+* 博物馆商店海报
+核心要求：
+* 上半部分是真实摄影
+* 下半部分是对应的极简手绘插画
+* 两部分视觉呼应明显
+* 高级、克制、安静、诗意
+* 有纸张印刷质感
+* 不要边框
+* 不要商业广告感
+* 不要廉价AI感
+vertical poster, 2:3 ratio, high resolution, premium editorial composition
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+
+ <td align="center">
+      <img src="pic/p28_1.jpg" alt="JM.BCL1" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p28_2.jpg" alt="JM.BCL2" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+    <td align="center">
+      <img src="pic/p28_3.jpg" alt="JM.BCL3" style="max-width:90%;">
+      <br>JM.BCL
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+豆包、ChatGPT、Gemini都能用的提示词来啦：
+将我提供的真实花卉 / 植物 / 花艺静物照片，转换为一张上下分区的高级艺术编辑海报。
+整体风格为：
+minimal editorial poster, botanical art book aesthetic, poetic floral illustration, contemporary still life poster, Japanese editorial design, Scandinavian minimalism, botanical watercolor, soft gouache illustration, quiet luxury, refined print design.
+构图
+采用上下两部分构图，竖版海报，不要边框。
+* 上半部分： 保留原始真实照片，尽量保持花朵、枝叶、花器、桌面、背景和构图不变。只做轻微电影感调色，降低饱和度，保留自然光影和真实摄影质感。不要 HDR、不要强锐化、不要 AI 重绘感。
+* 下半部分： 基于上方真实照片，将花朵、枝叶、花器和桌面提炼成极简植物插画。不要逐像素复刻，而是进行柔和概括与艺术化简化。
+插画质感
+使用：
+soft gouache, transparent watercolor, dry brush texture, subtle paper grain, hand-painted botanical illustration, matte printed texture
+花朵保留主要颜色、轮廓、数量关系与高低关系；
+叶片和枝条简化为自然弯曲的笔触与色块；
+花器和桌面保留基本识别度，但更概括、更轻盈。
+画面要求
+* 大量米白色留白
+* 构图疏朗、平衡、安静、诗意
+* 像植物艺术书内页 / 独立杂志海报 / 博物馆商店印刷品
+* 不要卡通、不要 3D、不要矢量图标感、不要廉价 AI 感
+配色
+使用低饱和自然色：
+warm ivory, sage green, olive green, dusty pink, soft rose, terracotta, muted burgundy, lavender grey, powder blue, warm ochre, smoky brown
+文字排版
+底部加入极简英文排版：
+* 主标题： 根据图片内容自动生成
+* 副标题： 根据图片内容自动生成
+主标题使用优雅衬线字体，副标题使用细腻斜体 serif，左对齐，字号克制，保留呼吸感。
+最终效果
+整体呈现：
+real photography + poetic botanical illustration
+高级、克制、安静、自然，有纸张印刷质感。
+vertical poster, 2:3 ratio, high resolution, premium editorial botanical poster
     </td>
   </tr>
  <!------------------------------------------------------------------------------------------>
