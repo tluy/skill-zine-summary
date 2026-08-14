@@ -49,6 +49,9 @@
 | ![Laurent1](pic/s46_1.jpg) | ![Laurent2](pic/s46_2.jpg) | ![Laurent3](pic/s46_3.jpg) | [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills)| Laurent |
 | ![设计goo1](pic/s47_1.jpg) | ![设计goo2](pic/s47_2.jpg) | ![设计goo3](pic/s47_3.jpg) | [heytea-style](https://github.com/Hchen1218/heytea-style)&[heytea-creative-style](https://github.com/shouna12358-png/heytea-creative-style)| 设计goo |
 | ![N1ko1](pic/s48_1.jpg) | ![N1ko2](pic/s48_2.jpg) | ![N1ko3](pic/s48_3.jpg) | [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab)| N1ko |
+| ![理智画1](pic/s49_1.jpg) | ![理智画2](pic/s49_2.jpg) | ![理智画3](pic/s49_3.jpg) | [silhouette-group-collage](https://github.com/liuzihe849-png/silhouette-group-collage)| 理智画 |
+| ![Carito1](pic/s50_1.jpg) | ![Carito2](pic/s50_2.jpg) | ![Carito3](pic/s50_3.jpg) | [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card)&[travel-memory-card-duo](travel-memory-card-duo)| Carito |
+| ![旅人编号06211](pic/s51_1.jpg) | ![旅人编号06212](pic/s51_2.jpg) | ![旅人编号06213](pic/s51_3.jpg) | [reality-restaged](https://github.com/traveler0621/reality-restaged)| 旅人编号0621 |
 
 
 # Prompt 样图与提示词汇总
