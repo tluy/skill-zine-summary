@@ -1135,7 +1135,95 @@ vertical poster, 2:3 ratio, high resolution, premium editorial botanical poster
   </tr>
  <!------------------------------------------------------------------------------------------>
  
+<td align="center">
+      <img src="pic/p29_1.jpg" alt="被发卖到太阳上的打工仔1" style="max-width:90%;">
+      <br>被发卖到太阳上的打工仔
+    </td>
+    <td align="center">
+      <img src="pic/p29_2.jpg" alt="被发卖到太阳上的打工仔2" style="max-width:90%;">
+      <br>被发卖到太阳上的打工仔
+    </td>
+    <td align="center">
+      <img src="pic/p29_3.jpg" alt="被发卖到太阳上的打工仔3" style="max-width:90%;">
+      <br>被发卖到太阳上的打工仔
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+将参考照片制作成一张竖版 3:5 艺术明信片。
+上半部分完整保留原始照片，突出主体特征与现场氛围，约占画面高度的 55%。照片底部采用自然、不规则且带有清晰纸张纤维的手撕边缘。
+撕纸边下方保留适量暖奶油色留白，使原始照片与下方油画完全分开。留白处使用小号复古打字机字体：能够准确识别主体时填写“品牌＋型号”，无法确认型号时只填写品牌全称。
+下半部分绘制一幅缩小约 15% 的专属厚涂油画，提炼主体轮廓、代表性色彩与画面动势。使用真实油彩、鬃毛笔触和刮刀肌理，呈现明确的体积感与绘画质感，避免简笔画、线稿、矢量插画和卡通效果。
+画面右侧只加入一个低调、磨损的蓝黑色圆形邮戳。底部使用通用格式标注：
+地点 · PLACE
+日期 · DATE
+整体呈现温暖的旧纸质感、充足留白与克制高级的杂志编辑风格。
+不要添加邮票、坐标、外边框、立体样机、厚重投影、卷角、额外印章、重复文字或水印。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
 
+
+ <td align="center">
+      <img src="pic/p30_1.jpg" alt="没有领带1" style="max-width:90%;">
+      <br>没有领带
+    </td>
+    <td align="center">
+      <img src="pic/p30_2.jpg" alt="没有领带2" style="max-width:90%;">
+      <br>没有领带
+    </td>
+    <td align="center">
+      <img src="pic/p30_3.jpg" alt="没有领带3" style="max-width:90%;">
+      <br>没有领带
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+将我提供的真实城市/风景照片，转换为一张上下分区的高级艺术海报。
+整体风格为：minimal editorial poster, poetic city illustration, contemporary art book aesthetic, Scandinavian minimalism, Japanese editorial design, soft gouache illustration, abstract cityscape, quiet luxury poster, refined print design。
+构图
+采用上下两部分构图：
+上半部分：
+保留原始真实摄影画面，尽量保持原照片的构图、天空、建筑、灯光、云层、月亮或主体元素不变。
+只做轻微电影感调色，降低饱和度，保留真实摄影质感。
+整体色调柔和、克制、安静，以蓝灰、暖黄、米白等低饱和自然色为主。
+不要过度HDR，不要强锐化，不要AI重绘感。
+文字排版
+底部加入极简杂志式英文排版：
+主标题：根据图片内容自动生成英文标题
+副标题：根据图片内容自动生成英文副标题
+主标题使用优雅经典衬线字体，深蓝灰色；
+副标题使用细腻斜体 serif / editorial italic；
+左对齐，字号克制，留出足够呼吸空间。
+整体要求
+画面效果像：独立艺术杂志内页、城市旅行摄影集、当代艺术书籍封面、博物馆商店海报。
+必须让人一眼看出：下方插画是对上方照片的艺术化提炼，但不要机械临摹。
+整体要高级、克制、安静、诗意，有纸张印刷质感。
+避免商业广告感、廉价AI感和复杂装饰。
+vertical poster, 2:3 ratio, high resolution, premium editorial composition
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ <td align="center">
+      <img src="pic/p31_1.jpg" alt="Whiskey1" style="max-width:90%;">
+      <br>Whiskey
+    </td>
+    <td align="center">
+      <img src="pic/p31_2.jpg" alt="Whiskey2" style="max-width:90%;">
+      <br>Whiskey
+    </td>
+    <td align="center">
+      <img src="pic/p31_3.jpg" alt="Whiskey3" style="max-width:90%;">
+      <br>Whiskey
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+将照片调整 Source 引擎（起源引擎）初代风格：-3D建模：采用低多边形（Low-Poly）模型-光影效果：模拟早期引擎特有的混乱、生硬光影-材质贴图：使用低分辦率（Low-Res） 纹理-视觉风格：模仿《半条命》（Half-Life）或 Garry'sMod的早期视觉质感 保留2000千禧年直播 复古忧郁
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
 </table>
 
 
