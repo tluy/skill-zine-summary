@@ -45,13 +45,14 @@
 | ![Dlcccc719131](pic/s42_1.jpg) | ![Dlcccc719132](pic/s42_2.jpg) | ![Dlcccc719133](pic/s42_3.jpg) | [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive)| Dlcccc71913 |  
 | ![小灯只工作不上班1](pic/s43_1.jpg) | ![小灯只工作不上班2](pic/s43_2.jpg) | ![小灯只工作不上班3](pic/s43_3.jpg) | [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch)| 小灯只工作不上班 |
 | ![尼尔.S1](pic/s44_1.jpg) | ![尼尔.S2](pic/s44_2.jpg) | ![尼尔.S3](pic/s44_3.jpg) | [neil-quentin](https://github.com/Nealsun1993/neil-quentin)| 尼尔.S |
-| ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆1](pic/s45_1.jpg) | ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆2](pic/s45_2.jpg) | ![𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆3](pic/s45_3.jpg) | [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator)| 𝒀𝒐𝒔𝒆𝒎𝒊𝒕𝒆 |
+| ![小灯只工作不上班1](pic/s45_1.jpg) | ![小灯只工作不上班2](pic/s45_2.jpg) | ![小灯只工作不上班3](pic/s45_3.jpg) | [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator)| 小灯只工作不上班 |
 | ![Laurent1](pic/s46_1.jpg) | ![Laurent2](pic/s46_2.jpg) | ![Laurent3](pic/s46_3.jpg) | [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills)| Laurent |
 | ![设计goo1](pic/s47_1.jpg) | ![设计goo2](pic/s47_2.jpg) | ![设计goo3](pic/s47_3.jpg) | [heytea-style](https://github.com/Hchen1218/heytea-style)&[heytea-creative-style](https://github.com/shouna12358-png/heytea-creative-style)| 设计goo |
 | ![N1ko1](pic/s48_1.jpg) | ![N1ko2](pic/s48_2.jpg) | ![N1ko3](pic/s48_3.jpg) | [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab)| N1ko |
 | ![理智画1](pic/s49_1.jpg) | ![理智画2](pic/s49_2.jpg) | ![理智画3](pic/s49_3.jpg) | [silhouette-group-collage](https://github.com/liuzihe849-png/silhouette-group-collage)| 理智画 |
 | ![Carito1](pic/s50_1.jpg) | ![Carito2](pic/s50_2.jpg) | ![Carito3](pic/s50_3.jpg) | [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card)&[travel-memory-card-duo](travel-memory-card-duo)| Carito |
 | ![旅人编号06211](pic/s51_1.jpg) | ![旅人编号06212](pic/s51_2.jpg) | ![旅人编号06213](pic/s51_3.jpg) | [reality-restaged](https://github.com/traveler0621/reality-restaged)| 旅人编号0621 |
+| ![JsIo06211](pic/s52_1.jpg) | ![JsIo06212](pic/s52_2.jpg) | ![JsIo06213](pic/s52_3.jpg) | [compose-photo-memory-archive](https://github.com/sbj61188-lab/compose-photo-memory-archive)| JsIo |
 
 
 # Prompt 样图与提示词汇总
@@ -1224,6 +1225,206 @@ vertical poster, 2:3 ratio, high resolution, premium editorial composition
     </td>
   </tr>
  <!------------------------------------------------------------------------------------------>
+
+
+  <td align="center">
+      <img src="pic/p32_1.jpg" alt="Starryear_年1" style="max-width:90%;">
+      <br>Starryear_年
+    </td>
+    <td align="center">
+      <img src="pic/p32_2.jpg" alt="Starryear_年2" style="max-width:90%;">
+      <br>Starryear_年
+    </td>
+    <td align="center">
+      <img src="pic/p32_3.jpg" alt="Starryear_年3" style="max-width:90%;">
+      <br>Starryear_年
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+口令：Photo Abstract Editorial × Travel Photo Abstraction 把我上传的横版照片制作成一张竖版四联画，四格从上到下逐渐抽象。第一格完整保留原图，只允许等比例裁剪，人物、动物和建筑不得变形，并去除原有水印；第二格提炼主体、构图与色彩关系；第三格继续减少写实细节，用简洁色块、线条和留白重构画面；第四格做成极简抽象作品，只保留最有辨识度的形状、节奏与情绪。四格风格统一、层次递进，像一张干净克制的艺术编辑海报，不要卡通化，不要随意增添元素，不要改变主体数量和基本关系。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p33_1.jpg" alt="设计师小白1" style="max-width:90%;">
+      <br>设计师小白
+    </td>
+    <td align="center">
+      <img src="pic/p33_2.jpg" alt="设计师小白2" style="max-width:90%;">
+      <br>设计师小白
+    </td>
+    <td align="center">
+      <img src="pic/p33_3.jpg" alt="设计师小白3" style="max-width:90%;">
+      <br>设计师小白
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+豆包、Chatgpt、Gemini、Hookshot都能用的提示词：
+将我提供的真实城市/风景照片，转换为一张上下分区的高级艺术海报。
+整体风格为：minimal editorial poster, poetic city
+illustration, contemporary art book aesthetic, Scandinavian minimalism, Japanese editorial design, soft gouache illustration, abstract cityscape, quiet luxury poster, refined print design.
+构图
+采用上下两部分构图：
+上半部分：
+保留原始真实摄影画面，尽量保持原照片的构图、天空、建筑、灯光、云层、月亮或主体元素不变。只做轻微电影感调色，降低饱和度，保留真实摄影质感。
+整体色调柔和、克制、安静，以蓝灰、暖黄、米白等低饱和自然色为主。不要过度HDR、不要强锐化、不要AI重绘感。
+下半部分：
+基于上方照片，将其中最具辦识度的元素提炼成极简艺术插画。
+不要逐像素复刻，而是进行抽象化概括：
+建筑简化为几何色块
+远景压缩为细小矩形剪影
+云层变柔软横向笔触
+天空与地面仅保留少量线条
+月亮简化为小型新月
+灯光以少量暖黄色点缀
+插画质感: soft gouache, dry brush texture, watercolor-like opacity, subtle paper grain, hand-painted editorial illustration, matte printed texture.
+不要明显描边，不要卡通，不要赛博朋克，不要3D，不要矢量图标感。
+保留大量米白色留白，构图疏朗、平衡、安静、诗意、现代。
+配色
+整体配色: warm ivory, muted navy, blue grey, smoky grey, warm ochre, mustard yellow, soft beige, low saturation.
+文字排版
+底部加入极简杂志式英文排版：
+主标题：根据图片内容自动生成英文标题
+副标题：根据图片内容自动生成英文副标题
+主标题使用优雅经典衬线字体，深蓝灰色；
+副标题使用细腻斜体 serif / editorial italic；
+左对齐，字号克制，留出足够呼吸空间。
+整体要求
+画面效果像：独立艺术杂志内页、城市旅行摄影集、当代艺术书籍封面、博物馆商店海报。
+必须让人一眼看出：下方插画是对上方照片的艺术化提炼，但不要机械临摹。
+整体要高级、克制、安静、诗意，有纸张印刷质感。
+避免商业广告感、廉价 AI感和复杂装饰。
+vertical poster, 2:3 ratio, high resolution, premium editorial composition
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p34_1.jpg" alt="阿魚AWing1" style="max-width:90%;">
+      <br>阿魚AWing
+    </td>
+    <td align="center">
+      <img src="pic/p34_2.jpg" alt="阿魚AWing2" style="max-width:90%;">
+      <br>阿魚AWing
+    </td>
+    <td align="center">
+      <img src="pic/p34_3.jpg" alt="阿魚AWing3" style="max-width:90%;">
+      <br>阿魚AWing
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+请将上传的照片重新制作成以下风格：横屏4:3，双层纸张质感，外层是米白色粗糙粗纤维手工纸底纹，画面中间一块低饱和灰蓝绿色（根据每张照片调整颜色）横向窄矩形色块区域，用米白色 哑光蜡粉笔手绘 简化提取照片里的主体轮廓，极简松弛手绘线条，造型概括稚拙，去掉繁杂细节，保留物象核心形态，手绘随性不规整，轻微粗糙笔触感，色块上下大面积留白。搭配随性手写英文短句，字体柔软潦草，复古安静治愈氛围，淡淡的做旧纸肌理， Risograph孔版印刷微弱颗粒噪点，低饱和莫兰迪配色，干净简约文艺卡片风格，无复杂阴影，无写实质感，没有多余装饰。
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+  <td align="center">
+      <img src="pic/p35_1.jpg" alt="网上邻居1" style="max-width:90%;">
+      <br>网上邻居
+    </td>
+    <td align="center">
+      <img src="pic/p35_2.jpg" alt="网上邻居2" style="max-width:90%;">
+      <br>网上邻居
+    </td>
+    <td align="center">
+      <img src="pic/p35_3.jpg" alt="网上邻居3" style="max-width:90%;">
+      <br>网上邻居
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+请将我提供的真实城市 / 风景 / 人文照片，转换为一张高级艺术编辑海报。
+整体风格
+高级写实水彩 editorial poster，通透、克制、安静、优雅，具有欧洲小镇水彩写生气质与当代感。不是普通滤镜，不是简单照片淡化，而是 “上半部分真实摄影 + 下半部分高完成度写实水彩重绘”。
+版式
+vertical poster，2:3 ratio，high resolution，premium editorial composition。
+整体保留大量留白，画面呼吸感强，排版简洁精致，像独立艺术杂志封面、博物馆商店艺术海报。
+上半部分｜真实摄影
+严格保留原始照片的主体、建筑、人物、天空、灯光、云层、河流、街道、屋顶、山体等关键元素。
+只做轻微电影感调色：降低饱和度，统一色温，保留自然光与真实摄影质感。
+避免 HDR、过锐、假光、过强对比、塑料感、廉价 AI 感。
+下半部分｜高级写实水彩重绘
+下半部分必须基于上方同一场景进行重新绘制，形成清晰呼应的 watercolor reinterpretation。
+不是模糊照片，不是像素化，不是普通插画，专业级透明水彩重绘效果。
+水彩风格要求
+Spanish realist watercolor inspired，luminous transparent watercolor，wet‑on‑wet
+技法重点
+以湿中湿、湿洗、大面积积水色晕染为主；
+保留自然水痕、水渍、边缘渗化、纸张吸水痕迹；
+多层薄叠透明上色，局部以干笔强化轮廓与焦点；
+整体轻盈通透，不能脏、不能糊、不能粉化。
+色调
+low saturation Morandi earth palette，
+ochre，warm ivory，beige，dusty grey，grey blue，muted olive，smoky taupe，soft tone
+整体低对比、高级灰、柔和统一、静谧素雅。
+光影
+soft diffused natural light，atmospheric perspective，misty distant blur，gentle shadow
+远景带轻微空气雾感，近景更清晰但仍保持水彩柔和边缘。
+构图与场景表达
+保持原图透视关系与主要结构准确；
+如果是城市或建筑，强调建筑体块、街巷关系、屋顶层次、天际线；
+如果是风景或人文，强调主要人物 / 动物 / 建筑与环境之间的诗意关系；
+整体更像高完成度写生水彩与现代编辑设计结合的海报。
+纸张与质感
+white watercolor paper base，visible rough paper grain，clean paper white，elegant texture
+底部英文排版
+加入极简英文标题与副标题，像高端艺术杂志封面。
+英文标题颜色不要固定深蓝灰，请根据画面主色自动搭配：
+若画面偏灰蓝 / 夜景 / 河流：标题用 deep desaturated blue‑grey
+若画面偏赭石 / 暖黄 / 屋顶 / 落日：标题用 muted umber or smoky brown
+若画面偏米白 / 雾感 / 浅灰：标题用 soft charcoal grey
+若画面偏橄榄绿 / 山野 / 草地：标题用 dark muted olive‑grey
+字体要求
+标题使用 decorative elegant serif with artistic flair，refined high‑fashion editorial font
+副标题使用 delicate italic serif or romantic editorial script，lighter weight
+字体要花式但高级，不要俗气，不要婚礼模板感，不要过度装饰。
+标题文案风格
+自动根据画面内容生成贴切、诗意、简洁的英文标题与副标题。
+标题与副标题要与画面氛围一致，避免通用空洞文案。
+最终效果
+真实摄影 + 高级透明水彩重绘 + 花式艺术英文字体排版的当代艺术海报。
+像真正可印刷收藏的艺术品，而不是 AI 练习图。
+
+英文版：
+Convert the provided real‑world city / landscape / human‑interest photo into a high‑end editorial art poster.
+High‑level realistic watercolor editorial poster, translucent, restrained, quiet, elegant, European town plein‑air watercolor aesthetic with contemporary touch. Not simple filter or faded photo. Composition: upper half retains authentic photograph, lower half is fully‑realized realistic watercolor repainting of the same scene.
+vertical poster, 2:3 ratio, high resolution, premium editorial composition, generous negative space, strong visual breathing room, clean sophisticated layout, independent art magazine cover aesthetic, museum‑shop art poster style.
+
+Upper half: authentic photograph. Strictly preserve all key subjects: buildings, figures, sky, light, clouds, river, street, rooftops, mountain forms. Subtle cinematic color grading only: lower saturation, unified color temperature, keep natural light and photographic texture. No HDR, no over‑sharpness, fake glow, harsh contrast, plastic look, cheap AI artifacts.
+
+Lower half: premium realistic watercolor reinterpretation of exactly the same scene above. Not blurred photo, not pixel art, not basic illustration; professional transparent watercolor repaint.
+
+Inspired by Spanish realist watercolor, luminous transparent watercolor, wet‑on‑wet technique.
+Technique: wet‑in‑wet, wet wash, large‑area water wash and bleed; preserve natural water marks, water stain, bleeding edges, paper absorbency texture; multiple thin transparent glazes, dry brush for partial focal contours. Keep luminous and clear, avoid muddy, smudged, chalky appearance.
+
+Color palette: low‑saturation Morandi earth palette, ochre, warm ivory, beige, dusty grey, grey‑blue, muted olive, smoky taupe, soft tone. Low contrast, sophisticated neutral tones, harmonious, tranquil and refined.
+
+Lighting: soft diffused natural light, atmospheric perspective, misty distant blur, gentle shadow. Distant view with subtle atmospheric haze; foreground clearer yet retains soft watercolor edges.
+
+Composition: strictly follow original photo perspective and spatial structure. For architecture/city: emphasize building mass, street logic, roof hierarchy, skyline. For landscape/human scene: poetic relation between subject (people/animal/building) and surroundings. Blend finished plein‑air watercolor and modern editorial poster design.
+
+Texture base: white watercolor paper, visible rough paper grain, clean paper white, elegant texture.
+
+Minimal English headline + subhead at bottom, high‑end art magazine cover style. Automatically match headline color to main tone of artwork:
+- cool blue‑grey / night / river scene: deep desaturated blue‑grey text
+- ochre warm / rooftop / sunset scene: muted umber or smoky brown text
+- off‑white mist pale grey scene: soft charcoal grey text
+- olive green mountain meadow scene: dark muted olive‑grey text
+
+Font: headline: decorative elegant serif with artistic flair, refined high‑fashion editorial font. Subhead: delicate italic serif or romantic editorial script, light weight. Ornate yet sophisticated, no kitsch wedding template style, no excessive ornament.
+
+Generate poetic, concise, scene‑specific English headline and subtitle matching image mood, avoid generic empty phrases.
+
+Final output: contemporary art poster combining authentic photography, premium transparent watercolor repaint, artistic styled English typography. Print‑ready collectible art piece, not rough AI sketch.
+    </td>
+  </tr>
+ <!------------------------------------------------------------------------------------------>
+
+ 
 </table>
 
 
