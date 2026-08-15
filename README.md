@@ -1,63 +1,526 @@
 # Skill 样图与地址汇总
 
-> 收录 **52** 个 AI 图像生成 / 海报类 Codex Skill，每个附带 3 张样图、GitHub 地址与样图作者。样图缩略图宽度 280px，点击名称可跳转原仓库。
+> 收录 **52** 个 AI 图像生成 / 海报类 Codex Skill，每个附带 3 张样图、GitHub 地址与样图作者，名称可点击跳转原仓库。
 
-| 样图 1 | 样图 2 | 样图 3 | Skill / 地址 | 样图作者 |
-|--------|--------|--------|--------------|----------|
-| <img src="pic/s01_1.jpg" width="280"> | <img src="pic/s01_2.jpg" width="280"> | <img src="pic/s01_3.jpg" width="280"> | [daily-photo-play-ground](https://github.com/luji12/daily-photo-playground) | 螂狗日记 |
-| <img src="pic/s02_1.jpg" width="280"> | <img src="pic/s02_2.jpg" width="280"> | <img src="pic/s02_3.jpg" width="280"> | [dyy_photo_deconstruct](https://github.com/121dyy/dyy_photo_deconstruct) | dyy |
-| <img src="pic/s03_1.jpg" width="280"> | <img src="pic/s03_2.jpg" width="280"> | <img src="pic/s03_3.jpg" width="280"> | [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction) | 土建三局包工头 |
-| <img src="pic/s04_1.jpg" width="280"> | <img src="pic/s04_2.jpg" width="280"> | <img src="pic/s04_3.jpg" width="280"> | [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) (作者下架暂时替代[gathered-scenes-zine-skill](https://github.com/yub369302-cyber/gathered-scenes-zine-skill)) | 乞力马扎罗的雪 |
-| <img src="pic/s05_1.jpg" width="280"> | <img src="pic/s05_2.jpg" width="280"> | <img src="pic/s05_3.jpg" width="280"> | [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster) | AYE |
-| <img src="pic/s06_1.jpg" width="280"> | <img src="pic/s06_2.jpg" width="280"> | <img src="pic/s06_3.jpg" width="280"> | [PHOTO REVIVAL](https://github.com/dacnay816y62-hub/photo-revival) | 章台竹 |
-| <img src="pic/s07_1.jpg" width="280"> | <img src="pic/s07_2.jpg" width="280"> | <img src="pic/s07_3.jpg" width="280"> | [pixel-style-poster-skill](https://github.com/v92388375-gif/pixel-style-poster-skill) | 米兰的弹舌 |
-| <img src="pic/s08_1.jpg" width="280"> | <img src="pic/s08_2.jpg" width="280"> | <img src="pic/s08_3.jpg" width="280"> | [scene-distillation-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill) | 知梵夜猫 |
-| <img src="pic/s09_1.jpg" width="280"> | <img src="pic/s09_2.jpg" width="280"> | <img src="pic/s09_3.jpg" width="280"> | [scenes-gathered-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill) | LightJoyJet |
-| <img src="pic/s10_1.jpg" width="280"> | <img src="pic/s10_2.jpg" width="280"> | <img src="pic/s10_3.jpg" width="280"> | [photo-relic-editorial](https://github.com/wnby/photo-relic-editorial) | 丁真の赛博牧场 |
-| <img src="pic/s11_1.jpg" width="280"> | <img src="pic/s11_2.jpg" width="280"> | <img src="pic/s11_3.jpg" width="280"> | [photo-distill](https://github.com/yangcodingmaster/photo-distill) | yangholdon |
-| <img src="pic/s12_1.jpg" width="280"> | <img src="pic/s12_2.jpg" width="280"> | <img src="pic/s12_3.jpg" width="280"> | [poetic-line-zine-poster](https://github.com/zhu930824/poetic-line-zine-poster) | 诗意线条海报 |
-| <img src="pic/s13_1.jpg" width="280"> | <img src="pic/s13_2.jpg" width="280"> | <img src="pic/s13_3.jpg" width="280"> | [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 凌云志 |
-| <img src="pic/s14_1.jpg" width="280"> | <img src="pic/s14_2.jpg" width="280"> | <img src="pic/s14_3.jpg" width="280"> | [photo-to-zine-postcard](https://github.com/Whiplashzeb/photo-to-zine-postcard) | 王二_Wanger |
-| <img src="pic/s15_1.jpg" width="280"> | <img src="pic/s15_2.jpg" width="280"> | <img src="pic/s15_3.jpg" width="280"> | [8-bit Pixel Fusion](https://github.com/TwentyfiveBTea/8bit-pixel-art) | Twe_5 |
-| <img src="pic/s16_1.jpg" width="280"> | <img src="pic/s16_2.jpg" width="280"> | <img src="pic/s16_3.jpg" width="280"> | [Ink Wash Poster](https://github.com/TwentyfiveBTea/ink-wash-poster) | Twe_5 |
-| <img src="pic/s17_1.jpg" width="280"> | <img src="pic/s17_2.jpg" width="280"> | <img src="pic/s17_3.jpg" width="280"> | [travel-photo-soft-abstraction](https://github.com/wnby/travel-photo-soft-abstraction) | 像素拌饭 |
-| <img src="pic/s18_1.jpg" width="280"> | <img src="pic/s18_2.jpg" width="280"> | <img src="pic/s18_3.jpg" width="280"> | [paper-spirit-zine](https://github.com/wnby/paper-spirit-zine) | 像素拌饭 |
-| <img src="pic/s19_1.jpg" width="280"> | <img src="pic/s19_2.jpg" width="280"> | <img src="pic/s19_3.jpg" width="280"> | [ai-editorial-print-studio](https://github.com/liuzihe849-png/ai-editorial-print-studio) | 理智画 |
-| <img src="pic/s20_1.jpg" width="280"> | <img src="pic/s20_2.jpg" width="280"> | <img src="pic/s20_3.jpg" width="280"> | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych) | 海星Hisea |
-| <img src="pic/s21_1.jpg" width="280"> | <img src="pic/s21_2.jpg" width="280"> | <img src="pic/s21_3.jpg" width="280"> | [dreamy-motion-editorial](https://github.com/lzs0594/dreamy-motion-editorial) | Aomo |
-| <img src="pic/s22_1.jpg" width="280"> | <img src="pic/s22_2.jpg" width="280"> | <img src="pic/s22_3.jpg" width="280"> | [photo-ink-echo](https://github.com/zhouaria28-cloud/photo-ink-echo) | Cinderella |
-| <img src="pic/s23_1.jpg" width="280"> | <img src="pic/s23_2.jpg" width="280"> | <img src="pic/s23_3.jpg" width="280"> | [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage) | 理想鲨鲨 |
-| <img src="pic/s24_1.jpg" width="280"> | <img src="pic/s24_2.jpg" width="280"> | <img src="pic/s24_3.jpg" width="280"> | [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster) | 咕咕咕咕咕嵩鼠 |
-| <img src="pic/s25_1.jpg" width="280"> | <img src="pic/s25_2.jpg" width="280"> | <img src="pic/s25_3.jpg" width="280"> | [flash4start_light](https://github.com/Buantum/flash4start_light) | LensWalker📷 |
-| <img src="pic/s26_1.jpg" width="280"> | <img src="pic/s26_2.jpg" width="280"> | <img src="pic/s26_3.jpg" width="280"> | [antibes-holiday](https://github.com/haorantang97/antibes-holiday) | Lab 305 |
-| <img src="pic/s27_1.jpg" width="280"> | <img src="pic/s27_2.jpg" width="280"> | <img src="pic/s27_3.jpg" width="280"> | [handdrawn-photo-poster](https://github.com/luji12/handdrawn-photo-poster) | 螂狗日记 |
-| <img src="pic/s28_1.jpg" width="280"> | <img src="pic/s28_2.jpg" width="280"> | <img src="pic/s28_3.jpg" width="280"> | [neil-night-skill](https://github.com/Nealsun1993/neil-night-skill) | 尼尔.S |
-| <img src="pic/s29_1.jpg" width="280"> | <img src="pic/s29_2.jpg" width="280"> | <img src="pic/s29_3.jpg" width="280"> | [tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill) | 糖油炸弹💣 |
-| <img src="pic/s30_1.jpg" width="280"> | <img src="pic/s30_2.jpg" width="280"> | <img src="pic/s30_3.jpg" width="280"> | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill) | 蜗的天 |
-| <img src="pic/s31_1.jpg" width="280"> | <img src="pic/s31_2.jpg" width="280"> | <img src="pic/s31_3.jpg" width="280"> | [fantasy-life-force-portrait-photography](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill) | 梵想美学 |
-| <img src="pic/s32_1.jpg" width="280"> | <img src="pic/s32_2.jpg" width="280"> | <img src="pic/s32_3.jpg" width="280"> | [culture-fragment-poster-engine](https://github.com/dacnay816y62-hub/culture-fragment-poster-engine) | 梵想美学 |
-| <img src="pic/s33_1.jpg" width="280"> | <img src="pic/s33_2.jpg" width="280"> | <img src="pic/s33_3.jpg" width="280"> | [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill) | 梵想美学 |
-| <img src="pic/s34_1.jpg" width="280"> | <img src="pic/s34_2.jpg" width="280"> | <img src="pic/s34_3.jpg" width="280"> | [cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3) | 梵想美学 |
-| <img src="pic/s35_1.jpg" width="280"> | <img src="pic/s35_2.jpg" width="280"> | <img src="pic/s35_3.jpg" width="280"> | [fantasy-movie-poster-skill](https://github.com/dacnay816y62-hub/fantasy-movie-poster-skill) | 梵想美学 |
-| <img src="pic/s36_1.jpg" width="280"> | <img src="pic/s36_2.jpg" width="280"> | <img src="pic/s36_3.jpg" width="280"> | [street-photo-illustration](https://github.com/dacnay816y62-hub/street-photo-illustration) | 梵想美学 |
-| <img src="pic/s37_1.jpg" width="280"> | <img src="pic/s37_2.jpg" width="280"> | <img src="pic/s37_3.jpg" width="280"> | [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych) | 长曝研究院×柳生 |
-| <img src="pic/s38_1.jpg" width="280"> | <img src="pic/s38_2.jpg" width="280"> | <img src="pic/s38_3.jpg" width="280"> | [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie) | 云间一纸书 |
-| <img src="pic/s39_1.jpg" width="280"> | <img src="pic/s39_2.jpg" width="280"> | <img src="pic/s39_3.jpg" width="280"> | [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch) | 卓一_Z·ONE |
-| <img src="pic/s40_1.jpg" width="280"> | <img src="pic/s40_2.jpg" width="280"> | <img src="pic/s40_3.jpg" width="280"> | [ZONE-Material-art](https://github.com/joeyhu1108-maker/ZONE-Material-art) | 卓一_Z·ONE |
-| <img src="pic/s41_1.jpg" width="280"> | <img src="pic/s41_2.jpg" width="280"> | <img src="pic/s41_3.jpg" width="280"> | [photo-to-minimal-illustration](https://github.com/iamkong/photo-to-minimal-illustration) | iamkong |
-| <img src="pic/s42_1.jpg" width="280"> | <img src="pic/s42_2.jpg" width="280"> | <img src="pic/s42_3.jpg" width="280"> | [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive) | Dlcccc71913 |
-| <img src="pic/s43_1.jpg" width="280"> | <img src="pic/s43_2.jpg" width="280"> | <img src="pic/s43_3.jpg" width="280"> | [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch) | 小灯只工作不上班 |
-| <img src="pic/s44_1.jpg" width="280"> | <img src="pic/s44_2.jpg" width="280"> | <img src="pic/s44_3.jpg" width="280"> | [neil-quentin](https://github.com/Nealsun1993/neil-quentin) | 尼尔.S |
-| <img src="pic/s45_1.jpg" width="280"> | <img src="pic/s45_2.jpg" width="280"> | <img src="pic/s45_3.jpg" width="280"> | [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator) | 小灯只工作不上班 |
-| <img src="pic/s46_1.jpg" width="280"> | <img src="pic/s46_2.jpg" width="280"> | <img src="pic/s46_3.jpg" width="280"> | [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills) | Laurent |
-| <img src="pic/s47_1.jpg" width="280"> | <img src="pic/s47_2.jpg" width="280"> | <img src="pic/s47_3.jpg" width="280"> | [heytea-style](https://github.com/Hchen1218/heytea-style)&[heytea-creative-style](https://github.com/shouna12358-png/heytea-creative-style) | 设计goo |
-| <img src="pic/s48_1.jpg" width="280"> | <img src="pic/s48_2.jpg" width="280"> | <img src="pic/s48_3.jpg" width="280"> | [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab) | N1ko |
-| <img src="pic/s49_1.jpg" width="280"> | <img src="pic/s49_2.jpg" width="280"> | <img src="pic/s49_3.jpg" width="280"> | [silhouette-group-collage](https://github.com/liuzihe849-png/silhouette-group-collage) | 理智画 |
-| <img src="pic/s50_1.jpg" width="280"> | <img src="pic/s50_2.jpg" width="280"> | <img src="pic/s50_3.jpg" width="280"> | [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card)&[travel-memory-card-duo](https://github.com/carolinaaafy/travel-memory-card-duo) | Carito |
-| <img src="pic/s51_1.jpg" width="280"> | <img src="pic/s51_2.jpg" width="280"> | <img src="pic/s51_3.jpg" width="280"> | [reality-restaged](https://github.com/traveler0621/reality-restaged) | 旅人编号0621 |
-| <img src="pic/s52_1.jpg" width="280"> | <img src="pic/s52_2.jpg" width="280"> | <img src="pic/s52_3.jpg" width="280"> | [compose-photo-memory-archive](https://github.com/sbj61188-lab/compose-photo-memory-archive) | JsIo |
+## s01 · [daily-photo-play-ground](https://github.com/luji12/daily-photo-playground)
+
+> 样图作者：螂狗日记
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s01_1.jpg" width="100%"> | <img src="pic/s01_2.jpg" width="100%"> | <img src="pic/s01_3.jpg" width="100%"> |
 
 ---
+
+## s02 · [dyy_photo_deconstruct](https://github.com/121dyy/dyy_photo_deconstruct)
+
+> 样图作者：dyy
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s02_1.jpg" width="100%"> | <img src="pic/s02_2.jpg" width="100%"> | <img src="pic/s02_3.jpg" width="100%"> |
+
+---
+
+## s03 · [travel-photo-abstraction](https://github.com/Evianis/travel-photo-abstraction)
+
+> 样图作者：土建三局包工头
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s03_1.jpg" width="100%"> | <img src="pic/s03_2.jpg" width="100%"> | <img src="pic/s03_3.jpg" width="100%"> |
+
+---
+
+## s04 · [gathered-scenes-zine-skill](https://github.com/Zeejay0/gathered-scenes-zine-skill) (作者下架暂时替代[gathered-scenes-zine-skill](https://github.com/yub369302-cyber/gathered-scenes-zine-skill))
+
+> 样图作者：乞力马扎罗的雪
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s04_1.jpg" width="100%"> | <img src="pic/s04_2.jpg" width="100%"> | <img src="pic/s04_3.jpg" width="100%"> |
+
+---
+
+## s05 · [gc-minimal-zine-poster](https://github.com/LiamGvchi/gc-minimal-zine-poster)
+
+> 样图作者：AYE
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s05_1.jpg" width="100%"> | <img src="pic/s05_2.jpg" width="100%"> | <img src="pic/s05_3.jpg" width="100%"> |
+
+---
+
+## s06 · [PHOTO REVIVAL](https://github.com/dacnay816y62-hub/photo-revival)
+
+> 样图作者：章台竹
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s06_1.jpg" width="100%"> | <img src="pic/s06_2.jpg" width="100%"> | <img src="pic/s06_3.jpg" width="100%"> |
+
+---
+
+## s07 · [pixel-style-poster-skill](https://github.com/v92388375-gif/pixel-style-poster-skill)
+
+> 样图作者：米兰的弹舌
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s07_1.jpg" width="100%"> | <img src="pic/s07_2.jpg" width="100%"> | <img src="pic/s07_3.jpg" width="100%"> |
+
+---
+
+## s08 · [scene-distillation-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill)
+
+> 样图作者：知梵夜猫
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s08_1.jpg" width="100%"> | <img src="pic/s08_2.jpg" width="100%"> | <img src="pic/s08_3.jpg" width="100%"> |
+
+---
+
+## s09 · [scenes-gathered-zine-v1-3](https://github.com/Zeejay0/gathered-scenes-zine-skill)
+
+> 样图作者：LightJoyJet
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s09_1.jpg" width="100%"> | <img src="pic/s09_2.jpg" width="100%"> | <img src="pic/s09_3.jpg" width="100%"> |
+
+---
+
+## s10 · [photo-relic-editorial](https://github.com/wnby/photo-relic-editorial)
+
+> 样图作者：丁真の赛博牧场
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s10_1.jpg" width="100%"> | <img src="pic/s10_2.jpg" width="100%"> | <img src="pic/s10_3.jpg" width="100%"> |
+
+---
+
+## s11 · [photo-distill](https://github.com/yangcodingmaster/photo-distill)
+
+> 样图作者：yangholdon
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s11_1.jpg" width="100%"> | <img src="pic/s11_2.jpg" width="100%"> | <img src="pic/s11_3.jpg" width="100%"> |
+
+---
+
+## s12 · [poetic-line-zine-poster](https://github.com/zhu930824/poetic-line-zine-poster)
+
+> 样图作者：诗意线条海报
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s12_1.jpg" width="100%"> | <img src="pic/s12_2.jpg" width="100%"> | <img src="pic/s12_3.jpg" width="100%"> |
+
+---
+
+## s13 · [photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial)
+
+> 样图作者：凌云志
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s13_1.jpg" width="100%"> | <img src="pic/s13_2.jpg" width="100%"> | <img src="pic/s13_3.jpg" width="100%"> |
+
+---
+
+## s14 · [photo-to-zine-postcard](https://github.com/Whiplashzeb/photo-to-zine-postcard)
+
+> 样图作者：王二_Wanger
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s14_1.jpg" width="100%"> | <img src="pic/s14_2.jpg" width="100%"> | <img src="pic/s14_3.jpg" width="100%"> |
+
+---
+
+## s15 · [8-bit Pixel Fusion](https://github.com/TwentyfiveBTea/8bit-pixel-art)
+
+> 样图作者：Twe_5
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s15_1.jpg" width="100%"> | <img src="pic/s15_2.jpg" width="100%"> | <img src="pic/s15_3.jpg" width="100%"> |
+
+---
+
+## s16 · [Ink Wash Poster](https://github.com/TwentyfiveBTea/ink-wash-poster)
+
+> 样图作者：Twe_5
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s16_1.jpg" width="100%"> | <img src="pic/s16_2.jpg" width="100%"> | <img src="pic/s16_3.jpg" width="100%"> |
+
+---
+
+## s17 · [travel-photo-soft-abstraction](https://github.com/wnby/travel-photo-soft-abstraction)
+
+> 样图作者：像素拌饭
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s17_1.jpg" width="100%"> | <img src="pic/s17_2.jpg" width="100%"> | <img src="pic/s17_3.jpg" width="100%"> |
+
+---
+
+## s18 · [paper-spirit-zine](https://github.com/wnby/paper-spirit-zine)
+
+> 样图作者：像素拌饭
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s18_1.jpg" width="100%"> | <img src="pic/s18_2.jpg" width="100%"> | <img src="pic/s18_3.jpg" width="100%"> |
+
+---
+
+## s19 · [ai-editorial-print-studio](https://github.com/liuzihe849-png/ai-editorial-print-studio)
+
+> 样图作者：理智画
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s19_1.jpg" width="100%"> | <img src="pic/s19_2.jpg" width="100%"> | <img src="pic/s19_3.jpg" width="100%"> |
+
+---
+
+## s20 · [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)
+
+> 样图作者：海星Hisea
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s20_1.jpg" width="100%"> | <img src="pic/s20_2.jpg" width="100%"> | <img src="pic/s20_3.jpg" width="100%"> |
+
+---
+
+## s21 · [dreamy-motion-editorial](https://github.com/lzs0594/dreamy-motion-editorial)
+
+> 样图作者：Aomo
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s21_1.jpg" width="100%"> | <img src="pic/s21_2.jpg" width="100%"> | <img src="pic/s21_3.jpg" width="100%"> |
+
+---
+
+## s22 · [photo-ink-echo](https://github.com/zhouaria28-cloud/photo-ink-echo)
+
+> 样图作者：Cinderella
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s22_1.jpg" width="100%"> | <img src="pic/s22_2.jpg" width="100%"> | <img src="pic/s22_3.jpg" width="100%"> |
+
+---
+
+## s23 · [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage)
+
+> 样图作者：理想鲨鲨
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s23_1.jpg" width="100%"> | <img src="pic/s23_2.jpg" width="100%"> | <img src="pic/s23_3.jpg" width="100%"> |
+
+---
+
+## s24 · [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster)
+
+> 样图作者：咕咕咕咕咕嵩鼠
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s24_1.jpg" width="100%"> | <img src="pic/s24_2.jpg" width="100%"> | <img src="pic/s24_3.jpg" width="100%"> |
+
+---
+
+## s25 · [flash4start_light](https://github.com/Buantum/flash4start_light)
+
+> 样图作者：LensWalker📷
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s25_1.jpg" width="100%"> | <img src="pic/s25_2.jpg" width="100%"> | <img src="pic/s25_3.jpg" width="100%"> |
+
+---
+
+## s26 · [antibes-holiday](https://github.com/haorantang97/antibes-holiday)
+
+> 样图作者：Lab 305
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s26_1.jpg" width="100%"> | <img src="pic/s26_2.jpg" width="100%"> | <img src="pic/s26_3.jpg" width="100%"> |
+
+---
+
+## s27 · [handdrawn-photo-poster](https://github.com/luji12/handdrawn-photo-poster)
+
+> 样图作者：螂狗日记
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s27_1.jpg" width="100%"> | <img src="pic/s27_2.jpg" width="100%"> | <img src="pic/s27_3.jpg" width="100%"> |
+
+---
+
+## s28 · [neil-night-skill](https://github.com/Nealsun1993/neil-night-skill)
+
+> 样图作者：尼尔.S
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s28_1.jpg" width="100%"> | <img src="pic/s28_2.jpg" width="100%"> | <img src="pic/s28_3.jpg" width="100%"> |
+
+---
+
+## s29 · [tait-crt-interface-skill](https://github.com/TaiT-tt/tait-crt-interface-skill)
+
+> 样图作者：糖油炸弹💣
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s29_1.jpg" width="100%"> | <img src="pic/s29_2.jpg" width="100%"> | <img src="pic/s29_3.jpg" width="100%"> |
+
+---
+
+## s30 · [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)
+
+> 样图作者：蜗的天
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s30_1.jpg" width="100%"> | <img src="pic/s30_2.jpg" width="100%"> | <img src="pic/s30_3.jpg" width="100%"> |
+
+---
+
+## s31 · [fantasy-life-force-portrait-photography](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s31_1.jpg" width="100%"> | <img src="pic/s31_2.jpg" width="100%"> | <img src="pic/s31_3.jpg" width="100%"> |
+
+---
+
+## s32 · [culture-fragment-poster-engine](https://github.com/dacnay816y62-hub/culture-fragment-poster-engine)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s32_1.jpg" width="100%"> | <img src="pic/s32_2.jpg" width="100%"> | <img src="pic/s32_3.jpg" width="100%"> |
+
+---
+
+## s33 · [fantasy-qiqiguaiguai-skill](https://github.com/dacnay816y62-hub/fantasy-qiqiguaiguai-skill)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s33_1.jpg" width="100%"> | <img src="pic/s33_2.jpg" width="100%"> | <img src="pic/s33_3.jpg" width="100%"> |
+
+---
+
+## s34 · [cinema-dna-21x9x3](https://github.com/dacnay816y62-hub/cinema-dna-21x9x3)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s34_1.jpg" width="100%"> | <img src="pic/s34_2.jpg" width="100%"> | <img src="pic/s34_3.jpg" width="100%"> |
+
+---
+
+## s35 · [fantasy-movie-poster-skill](https://github.com/dacnay816y62-hub/fantasy-movie-poster-skill)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s35_1.jpg" width="100%"> | <img src="pic/s35_2.jpg" width="100%"> | <img src="pic/s35_3.jpg" width="100%"> |
+
+---
+
+## s36 · [street-photo-illustration](https://github.com/dacnay816y62-hub/street-photo-illustration)
+
+> 样图作者：梵想美学
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s36_1.jpg" width="100%"> | <img src="pic/s36_2.jpg" width="100%"> | <img src="pic/s36_3.jpg" width="100%"> |
+
+---
+
+## s37 · [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych)
+
+> 样图作者：长曝研究院×柳生
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s37_1.jpg" width="100%"> | <img src="pic/s37_2.jpg" width="100%"> | <img src="pic/s37_3.jpg" width="100%"> |
+
+---
+
+## s38 · [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie)
+
+> 样图作者：云间一纸书
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s38_1.jpg" width="100%"> | <img src="pic/s38_2.jpg" width="100%"> | <img src="pic/s38_3.jpg" width="100%"> |
+
+---
+
+## s39 · [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch)
+
+> 样图作者：卓一_Z·ONE
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s39_1.jpg" width="100%"> | <img src="pic/s39_2.jpg" width="100%"> | <img src="pic/s39_3.jpg" width="100%"> |
+
+---
+
+## s40 · [ZONE-Material-art](https://github.com/joeyhu1108-maker/ZONE-Material-art)
+
+> 样图作者：卓一_Z·ONE
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s40_1.jpg" width="100%"> | <img src="pic/s40_2.jpg" width="100%"> | <img src="pic/s40_3.jpg" width="100%"> |
+
+---
+
+## s41 · [photo-to-minimal-illustration](https://github.com/iamkong/photo-to-minimal-illustration)
+
+> 样图作者：iamkong
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s41_1.jpg" width="100%"> | <img src="pic/s41_2.jpg" width="100%"> | <img src="pic/s41_3.jpg" width="100%"> |
+
+---
+
+## s42 · [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive)
+
+> 样图作者：Dlcccc71913
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s42_1.jpg" width="100%"> | <img src="pic/s42_2.jpg" width="100%"> | <img src="pic/s42_3.jpg" width="100%"> |
+
+---
+
+## s43 · [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch)
+
+> 样图作者：小灯只工作不上班
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s43_1.jpg" width="100%"> | <img src="pic/s43_2.jpg" width="100%"> | <img src="pic/s43_3.jpg" width="100%"> |
+
+---
+
+## s44 · [neil-quentin](https://github.com/Nealsun1993/neil-quentin)
+
+> 样图作者：尼尔.S
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s44_1.jpg" width="100%"> | <img src="pic/s44_2.jpg" width="100%"> | <img src="pic/s44_3.jpg" width="100%"> |
+
+---
+
+## s45 · [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator)
+
+> 样图作者：小灯只工作不上班
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s45_1.jpg" width="100%"> | <img src="pic/s45_2.jpg" width="100%"> | <img src="pic/s45_3.jpg" width="100%"> |
+
+---
+
+## s46 · [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills)
+
+> 样图作者：Laurent
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s46_1.jpg" width="100%"> | <img src="pic/s46_2.jpg" width="100%"> | <img src="pic/s46_3.jpg" width="100%"> |
+
+---
+
+## s47 · [heytea-style](https://github.com/Hchen1218/heytea-style)&[heytea-creative-style](https://github.com/shouna12358-png/heytea-creative-style)
+
+> 样图作者：设计goo
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s47_1.jpg" width="100%"> | <img src="pic/s47_2.jpg" width="100%"> | <img src="pic/s47_3.jpg" width="100%"> |
+
+---
+
+## s48 · [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab)
+
+> 样图作者：N1ko
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s48_1.jpg" width="100%"> | <img src="pic/s48_2.jpg" width="100%"> | <img src="pic/s48_3.jpg" width="100%"> |
+
+---
+
+## s49 · [silhouette-group-collage](https://github.com/liuzihe849-png/silhouette-group-collage)
+
+> 样图作者：理智画
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s49_1.jpg" width="100%"> | <img src="pic/s49_2.jpg" width="100%"> | <img src="pic/s49_3.jpg" width="100%"> |
+
+---
+
+## s50 · [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card)&[travel-memory-card-duo](https://github.com/carolinaaafy/travel-memory-card-duo)
+
+> 样图作者：Carito
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s50_1.jpg" width="100%"> | <img src="pic/s50_2.jpg" width="100%"> | <img src="pic/s50_3.jpg" width="100%"> |
+
+---
+
+## s51 · [reality-restaged](https://github.com/traveler0621/reality-restaged)
+
+> 样图作者：旅人编号0621
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s51_1.jpg" width="100%"> | <img src="pic/s51_2.jpg" width="100%"> | <img src="pic/s51_3.jpg" width="100%"> |
+
+---
+
+## s52 · [compose-photo-memory-archive](https://github.com/sbj61188-lab/compose-photo-memory-archive)
+
+> 样图作者：JsIo
+
+| 样图 1 | 样图 2 | 样图 3 |
+|---|---|---|
+| <img src="pic/s52_1.jpg" width="100%"> | <img src="pic/s52_2.jpg" width="100%"> | <img src="pic/s52_3.jpg" width="100%"> |
+
+
 
 # Prompt 样图与提示词汇总
 
